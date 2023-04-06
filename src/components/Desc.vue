@@ -4,7 +4,6 @@
 
 <script>
 import Document from '@tiptap/extension-document'
-import Placeholder from '@tiptap/extension-placeholder'
 import StarterKit from '@tiptap/starter-kit'
 import { Editor, EditorContent } from '@tiptap/vue-3'
 
@@ -14,10 +13,7 @@ const CustomDocument = Document.extend({
 
 export default {
   props: {
-    toolbar: {
-      type: Boolean,
-      default: false
-    }
+    modelValue: String
   },
   components: {
     EditorContent
@@ -31,29 +27,16 @@ export default {
 
   mounted () {
     this.editor = new Editor({
+      onUpdate: ({ editor }) => {
+        this.$emit('update:modelValue', editor.getHTML())
+      },
       extensions: [
         CustomDocument,
         StarterKit.configure({
           document: false
-        }),
-        Placeholder.configure({
-          placeholder: ({ node }) => {
-            if (node.type.name === 'heading') {
-              return 'Titre de la course'
-            }
-
-            return 'Détails de la course'
-          }
         })
       ],
-      content: `<h1>
-         La course en bref
-        </h1>
-        <ul>
-            <li>Monotype</li>
-          <li>2 types de gommes obligatoires</li>
-          <li>Refuel interdit</li>
-            </ul>`
+      content: this.modelValue
     })
   },
 

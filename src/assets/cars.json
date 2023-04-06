@@ -3,7 +3,7 @@
     "id": "1680769963-685",
     "brand": "Abarth",
     "name": "1500 Biposto Bertone B.A.T 1 '52",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/137.jpg",
+    "image": "./cars/137.jpg",
     "pp": "264.67",
     "group": ""
   },
@@ -11,7 +11,7 @@
     "id": "1680769961-684",
     "brand": "Abarth",
     "name": "Abarth 500 '09",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/138.jpg",
+    "image": "./cars/138.jpg",
     "pp": "391.21",
     "group": ""
   },
@@ -19,7 +19,7 @@
     "id": "1680769959-683",
     "brand": "Abarth",
     "name": "Abarth 595 SS '70",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/139.jpg",
+    "image": "./cars/139.jpg",
     "pp": "172.97",
     "group": ""
   },
@@ -27,7 +27,7 @@
     "id": "1680769957-682",
     "brand": "Alfa Romeo",
     "name": "4C '14",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/141.jpg",
+    "image": "./cars/141.jpg",
     "pp": "527.01",
     "group": ""
   },
@@ -35,7 +35,7 @@
     "id": "1680769955-681",
     "brand": "Alfa Romeo",
     "name": "4C Gr.3 Road Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/143.jpg",
+    "image": "./cars/143.jpg",
     "pp": "571.92",
     "group": ""
   },
@@ -43,7 +43,7 @@
     "id": "1680769952-680",
     "brand": "Alfa Romeo",
     "name": "8C 2900B Touring Berlinetta '38",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/145.jpg",
+    "image": "./cars/145.jpg",
     "pp": "385.59",
     "group": ""
   },
@@ -51,7 +51,7 @@
     "id": "1680769950-679",
     "brand": "Alfa Romeo",
     "name": "8C Competizione '08",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/146.jpg",
+    "image": "./cars/146.jpg",
     "pp": "558.52",
     "group": ""
   },
@@ -59,7 +59,7 @@
     "id": "1680769948-678",
     "brand": "Alfa Romeo",
     "name": "Giulia GTAm '20",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/457.jpg",
+    "image": "./cars/457.jpg",
     "pp": "579.50",
     "group": ""
   },
@@ -67,7 +67,7 @@
     "id": "1680769946-677",
     "brand": "Alfa Romeo",
     "name": "GIULIA TZ2 carrozzata da ZAGATO '65",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/147.jpg",
+    "image": "./cars/147.jpg",
     "pp": "486.05",
     "group": ""
   },
@@ -75,7 +75,7 @@
     "id": "1680769944-676",
     "brand": "Alfa Romeo",
     "name": "MiTo '09",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/148.jpg",
+    "image": "./cars/148.jpg",
     "pp": "415.18",
     "group": ""
   },
@@ -83,7 +83,7 @@
     "id": "1680769941-675",
     "brand": "Alfa Romeo",
     "name": "4C Gr.3",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/142.jpg",
+    "image": "./cars/142.jpg",
     "pp": "720.12",
     "group": "Gr.3"
   },
@@ -91,7 +91,7 @@
     "id": "1680769939-674",
     "brand": "Alfa Romeo",
     "name": "155 2.5 V6 TI '93",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/140.jpg",
+    "image": "./cars/140.jpg",
     "pp": "670.52",
     "group": "Gr.4"
   },
@@ -99,7 +99,7 @@
     "id": "1680769937-673",
     "brand": "Alfa Romeo",
     "name": "4C Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/144.jpg",
+    "image": "./cars/144.jpg",
     "pp": "620.27",
     "group": "Gr.4"
   },
@@ -107,7 +107,7 @@
     "id": "1680769935-672",
     "brand": "Alpine",
     "name": "A110 '17",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/100.jpg",
+    "image": "./cars/100.jpg",
     "pp": "522.71",
     "group": ""
   },
@@ -115,7 +115,7 @@
     "id": "1680769933-671",
     "brand": "Alpine",
     "name": "A110 '72",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/101.jpg",
+    "image": "./cars/101.jpg",
     "pp": "415.40",
     "group": ""
   },
@@ -123,7 +123,7 @@
     "id": "1680769931-670",
     "brand": "Alpine",
     "name": "A220 Race Car '68",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/102.jpg",
+    "image": "./cars/102.jpg",
     "pp": "616.09",
     "group": ""
   },
@@ -131,7 +131,7 @@
     "id": "1680769929-669",
     "brand": "Alpine",
     "name": "Alpine VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/103.jpg",
+    "image": "./cars/103.jpg",
     "pp": "657.05",
     "group": ""
   },
@@ -139,7 +139,7 @@
     "id": "1680769926-668",
     "brand": "Alpine",
     "name": "Alpine VGT Race",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/105.jpg",
+    "image": "./cars/105.jpg",
     "pp": "744.24",
     "group": ""
   },
@@ -147,7 +147,7 @@
     "id": "1680769924-667",
     "brand": "Alpine",
     "name": "Alpine VGT '17",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/104.jpg",
+    "image": "./cars/104.jpg",
     "pp": "905.87",
     "group": "Gr.1"
   },
@@ -155,7 +155,7 @@
     "id": "1680769922-666",
     "brand": "AMG",
     "name": "300 SEL 6.8 AMG '71",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/001.jpg",
+    "image": "./cars/001.jpg",
     "pp": "522.12",
     "group": ""
   },
@@ -163,7 +163,7 @@
     "id": "1680769920-665",
     "brand": "AMG",
     "name": "A 45 AMG '13",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/002.jpg",
+    "image": "./cars/002.jpg",
     "pp": "518.95",
     "group": ""
   },
@@ -171,7 +171,7 @@
     "id": "1680769918-664",
     "brand": "AMG",
     "name": "Mercedes-AMG C 63 S '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/004.jpg",
+    "image": "./cars/004.jpg",
     "pp": "575.10",
     "group": ""
   },
@@ -179,7 +179,7 @@
     "id": "1680769916-663",
     "brand": "AMG",
     "name": "Mercedes-AMG GT Black Series '20",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/005.jpg",
+    "image": "./cars/005.jpg",
     "pp": "667.90",
     "group": ""
   },
@@ -187,7 +187,7 @@
     "id": "1680769914-662",
     "brand": "AMG",
     "name": "Mercedes-AMG GT R '17",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/006.jpg",
+    "image": "./cars/006.jpg",
     "pp": "601.08",
     "group": ""
   },
@@ -195,7 +195,7 @@
     "id": "1680769911-661",
     "brand": "AMG",
     "name": "Mercedes-AMG GT S '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/007.jpg",
+    "image": "./cars/007.jpg",
     "pp": "585.15",
     "group": ""
   },
@@ -203,7 +203,7 @@
     "id": "1680769909-660",
     "brand": "AMG",
     "name": "Mercedes-AMG GT Safety Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/008.jpg",
+    "image": "./cars/008.jpg",
     "pp": "587.85",
     "group": ""
   },
@@ -211,7 +211,7 @@
     "id": "1680769907-659",
     "brand": "AMG",
     "name": "Mercedes-Benz AMG VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/010.jpg",
+    "image": "./cars/010.jpg",
     "pp": "650.22",
     "group": ""
   },
@@ -219,7 +219,7 @@
     "id": "1680769905-658",
     "brand": "AMG",
     "name": "Mercedes-Benz AMG VGT Racing Series",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/011.jpg",
+    "image": "./cars/011.jpg",
     "pp": "738.17",
     "group": ""
   },
@@ -227,7 +227,7 @@
     "id": "1680769903-657",
     "brand": "AMG",
     "name": "SLS AMG '10",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/012.jpg",
+    "image": "./cars/012.jpg",
     "pp": "597.06",
     "group": ""
   },
@@ -235,7 +235,7 @@
     "id": "1680769901-656",
     "brand": "AMG",
     "name": "CLK-LM '98",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/003.jpg",
+    "image": "./cars/003.jpg",
     "pp": "830.25",
     "group": "Gr.2"
   },
@@ -243,7 +243,7 @@
     "id": "1680769899-655",
     "brand": "AMG",
     "name": "Mercedes-AMG GT3 '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/009.jpg",
+    "image": "./cars/009.jpg",
     "pp": "736.63",
     "group": "Gr.3"
   },
@@ -251,7 +251,7 @@
     "id": "1680769896-654",
     "brand": "AMG",
     "name": "SLS AMG GT3 '11",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/013.jpg",
+    "image": "./cars/013.jpg",
     "pp": "734.63",
     "group": "Gr.3"
   },
@@ -259,7 +259,7 @@
     "id": "1680769894-653",
     "brand": "AMG",
     "name": "SLS AMG Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/014.jpg",
+    "image": "./cars/014.jpg",
     "pp": "643.67",
     "group": "Gr.4"
   },
@@ -267,7 +267,7 @@
     "id": "1680769892-652",
     "brand": "Amuse",
     "name": "Amuse NISMO 380RS Super Leggera",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/193.jpg",
+    "image": "./cars/193.jpg",
     "pp": "557.82",
     "group": ""
   },
@@ -275,7 +275,7 @@
     "id": "1680769890-651",
     "brand": "Amuse",
     "name": "Amuse S2000 GT1 Turbo",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/194.jpg",
+    "image": "./cars/194.jpg",
     "pp": "664.50",
     "group": ""
   },
@@ -283,7 +283,7 @@
     "id": "1680769888-650",
     "brand": "Aston Martin",
     "name": "DB11 '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/334.jpg",
+    "image": "./cars/334.jpg",
     "pp": "586.66",
     "group": ""
   },
@@ -291,7 +291,7 @@
     "id": "1680769886-649",
     "brand": "Aston Martin",
     "name": "DB3S '53",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/335.jpg",
+    "image": "./cars/335.jpg",
     "pp": "486.85",
     "group": ""
   },
@@ -299,7 +299,7 @@
     "id": "1680769884-648",
     "brand": "Aston Martin",
     "name": "DB5 '64",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/336.jpg",
+    "image": "./cars/336.jpg",
     "pp": "439.89",
     "group": ""
   },
@@ -307,7 +307,7 @@
     "id": "1680769882-647",
     "brand": "Aston Martin",
     "name": "DP-100 VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/338.jpg",
+    "image": "./cars/338.jpg",
     "pp": "719.74",
     "group": ""
   },
@@ -315,7 +315,7 @@
     "id": "1680769879-646",
     "brand": "Aston Martin",
     "name": "One-77 '11",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/339.jpg",
+    "image": "./cars/339.jpg",
     "pp": "634.52",
     "group": ""
   },
@@ -323,7 +323,7 @@
     "id": "1680769877-645",
     "brand": "Aston Martin",
     "name": "V8 Vantage S '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/342.jpg",
+    "image": "./cars/342.jpg",
     "pp": "555.17",
     "group": ""
   },
@@ -331,7 +331,7 @@
     "id": "1680769875-644",
     "brand": "Aston Martin",
     "name": "Vulcan '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/343.jpg",
+    "image": "./cars/343.jpg",
     "pp": "757.15",
     "group": ""
   },
@@ -339,7 +339,7 @@
     "id": "1680769873-643",
     "brand": "Aston Martin",
     "name": "DBR9 GT1 '10",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/337.jpg",
+    "image": "./cars/337.jpg",
     "pp": "750.36",
     "group": "Gr.3"
   },
@@ -347,7 +347,7 @@
     "id": "1680769871-642",
     "brand": "Aston Martin",
     "name": "V12 Vantage GT3 '12",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/340.jpg",
+    "image": "./cars/340.jpg",
     "pp": "735.15",
     "group": "Gr.3"
   },
@@ -355,7 +355,7 @@
     "id": "1680769869-641",
     "brand": "Aston Martin",
     "name": "V8 Vantage Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/341.jpg",
+    "image": "./cars/341.jpg",
     "pp": "643.93",
     "group": "Gr.4"
   },
@@ -363,7 +363,7 @@
     "id": "1680769867-640",
     "brand": "Audi",
     "name": "Audi e-tron VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/016.jpg",
+    "image": "./cars/016.jpg",
     "pp": "849.20",
     "group": ""
   },
@@ -371,7 +371,7 @@
     "id": "1680769864-639",
     "brand": "Audi",
     "name": "R8 4.2 '07",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/019.jpg",
+    "image": "./cars/019.jpg",
     "pp": "563.36",
     "group": ""
   },
@@ -379,7 +379,7 @@
     "id": "1680769862-638",
     "brand": "Audi",
     "name": "TT Coupé 3.2 quattro '03",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/023.jpg",
+    "image": "./cars/023.jpg",
     "pp": "465.27",
     "group": ""
   },
@@ -387,7 +387,7 @@
     "id": "1680769860-637",
     "brand": "Audi",
     "name": "TTS Coupé '14",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/025.jpg",
+    "image": "./cars/025.jpg",
     "pp": "526.78",
     "group": ""
   },
@@ -395,7 +395,7 @@
     "id": "1680769858-636",
     "brand": "Audi",
     "name": "Audi VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/015.jpg",
+    "image": "./cars/015.jpg",
     "pp": "927.00",
     "group": "Gr.1"
   },
@@ -403,7 +403,7 @@
     "id": "1680769856-635",
     "brand": "Audi",
     "name": "R18 '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/017.jpg",
+    "image": "./cars/017.jpg",
     "pp": "925.59",
     "group": "Gr.1"
   },
@@ -411,7 +411,7 @@
     "id": "1680769854-634",
     "brand": "Audi",
     "name": "R18 TDI '11",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/018.jpg",
+    "image": "./cars/018.jpg",
     "pp": "901.34",
     "group": "Gr.1"
   },
@@ -419,7 +419,7 @@
     "id": "1680769852-633",
     "brand": "Audi",
     "name": "RS 5 Turbo DTM '19",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/464.jpg",
+    "image": "./cars/464.jpg",
     "pp": "812.75",
     "group": "Gr.2"
   },
@@ -427,7 +427,7 @@
     "id": "1680769849-632",
     "brand": "Audi",
     "name": "R8 LMS '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/020.jpg",
+    "image": "./cars/020.jpg",
     "pp": "751.91",
     "group": "Gr.3"
   },
@@ -435,7 +435,7 @@
     "id": "1680769847-631",
     "brand": "Audi",
     "name": "R8 LMS Evo '19",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/021.jpg",
+    "image": "./cars/021.jpg",
     "pp": "743.23",
     "group": "Gr.3"
   },
@@ -443,7 +443,7 @@
     "id": "1680769845-630",
     "brand": "Audi",
     "name": "TT Cup '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/024.jpg",
+    "image": "./cars/024.jpg",
     "pp": "633.83",
     "group": "Gr.4"
   },
@@ -451,7 +451,7 @@
     "id": "1680769843-629",
     "brand": "Audi",
     "name": "Sport quattro S1 Pikes Peak '87",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/022.jpg",
+    "image": "./cars/022.jpg",
     "pp": "683.26",
     "group": "Gr.B"
   },
@@ -459,7 +459,7 @@
     "id": "1680769841-628",
     "brand": "Autobianchi",
     "name": "A112 Abarth '85",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/149.jpg",
+    "image": "./cars/149.jpg",
     "pp": "303.00",
     "group": ""
   },
@@ -467,7 +467,7 @@
     "id": "1680769839-627",
     "brand": "BAC",
     "name": "Mono '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/344.jpg",
+    "image": "./cars/344.jpg",
     "pp": "641.50",
     "group": ""
   },
@@ -475,7 +475,7 @@
     "id": "1680769837-626",
     "brand": "BMW",
     "name": "3.0 CSL '71",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/026.jpg",
+    "image": "./cars/026.jpg",
     "pp": "412.48",
     "group": ""
   },
@@ -483,7 +483,7 @@
     "id": "1680769834-625",
     "brand": "BMW",
     "name": "3.0 CSL '73",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/027.jpg",
+    "image": "./cars/027.jpg",
     "pp": "419.96",
     "group": ""
   },
@@ -491,7 +491,7 @@
     "id": "1680769832-624",
     "brand": "BMW",
     "name": "BMW VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/028.jpg",
+    "image": "./cars/028.jpg",
     "pp": "717.43",
     "group": ""
   },
@@ -499,7 +499,7 @@
     "id": "1680769830-623",
     "brand": "BMW",
     "name": "i3 '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/043.jpg",
+    "image": "./cars/043.jpg",
     "pp": "398.48",
     "group": ""
   },
@@ -507,7 +507,7 @@
     "id": "1680769828-622",
     "brand": "BMW",
     "name": "M2 Competition '18",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/450.jpg",
+    "image": "./cars/450.jpg",
     "pp": "548.30",
     "group": ""
   },
@@ -515,7 +515,7 @@
     "id": "1680769826-621",
     "brand": "BMW",
     "name": "M3 '03",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/029.jpg",
+    "image": "./cars/029.jpg",
     "pp": "523.34",
     "group": ""
   },
@@ -523,7 +523,7 @@
     "id": "1680769824-620",
     "brand": "BMW",
     "name": "M3 '07",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/030.jpg",
+    "image": "./cars/030.jpg",
     "pp": "538.70",
     "group": ""
   },
@@ -531,7 +531,7 @@
     "id": "1680769822-619",
     "brand": "BMW",
     "name": "M3 '89",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/031.jpg",
+    "image": "./cars/031.jpg",
     "pp": "456.36",
     "group": ""
   },
@@ -539,7 +539,7 @@
     "id": "1680769819-618",
     "brand": "BMW",
     "name": "M3 Sport Evolution '89",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/033.jpg",
+    "image": "./cars/033.jpg",
     "pp": "463.07",
     "group": ""
   },
@@ -547,7 +547,7 @@
     "id": "1680769817-617",
     "brand": "BMW",
     "name": "M4 '14",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/034.jpg",
+    "image": "./cars/034.jpg",
     "pp": "569.50",
     "group": ""
   },
@@ -555,7 +555,7 @@
     "id": "1680769815-616",
     "brand": "BMW",
     "name": "M4 Safety Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/037.jpg",
+    "image": "./cars/037.jpg",
     "pp": "570.00",
     "group": ""
   },
@@ -563,7 +563,7 @@
     "id": "1680769813-615",
     "brand": "BMW",
     "name": "Z8 '01",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/042.jpg",
+    "image": "./cars/042.jpg",
     "pp": "536.35",
     "group": ""
   },
@@ -571,7 +571,7 @@
     "id": "1680769811-614",
     "brand": "BMW",
     "name": "McLaren F1 GTR Race Car '97",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/040.jpg",
+    "image": "./cars/040.jpg",
     "pp": "841.07",
     "group": "Gr.2"
   },
@@ -579,7 +579,7 @@
     "id": "1680769808-613",
     "brand": "BMW",
     "name": "M3 GT '11",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/032.jpg",
+    "image": "./cars/032.jpg",
     "pp": "716.75",
     "group": "Gr.3"
   },
@@ -587,7 +587,7 @@
     "id": "1680769806-612",
     "brand": "BMW",
     "name": "M6 GT3 Endurance Model '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/038.jpg",
+    "image": "./cars/038.jpg",
     "pp": "726.67",
     "group": "Gr.3"
   },
@@ -595,7 +595,7 @@
     "id": "1680769804-611",
     "brand": "BMW",
     "name": "M6 GT3 Sprint Model '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/039.jpg",
+    "image": "./cars/039.jpg",
     "pp": "726.77",
     "group": "Gr.3"
   },
@@ -603,7 +603,7 @@
     "id": "1680769802-610",
     "brand": "BMW",
     "name": "Z4 GT3 '11",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/041.jpg",
+    "image": "./cars/041.jpg",
     "pp": "714.27",
     "group": "Gr.3"
   },
@@ -611,7 +611,7 @@
     "id": "1680769800-609",
     "brand": "BMW",
     "name": "M4 Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/036.jpg",
+    "image": "./cars/036.jpg",
     "pp": "624.94",
     "group": "Gr.4"
   },
@@ -619,7 +619,7 @@
     "id": "1680769798-608",
     "brand": "Bugatti",
     "name": "Bugatti VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/106.jpg",
+    "image": "./cars/106.jpg",
     "pp": "908.39",
     "group": ""
   },
@@ -627,7 +627,7 @@
     "id": "1680769796-607",
     "brand": "Bugatti",
     "name": "Chiron '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/458.jpg",
+    "image": "./cars/458.jpg",
     "pp": "705.01",
     "group": ""
   },
@@ -635,7 +635,7 @@
     "id": "1680769793-606",
     "brand": "Bugatti",
     "name": "Veyron 16.4 '13",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/108.jpg",
+    "image": "./cars/108.jpg",
     "pp": "671.53",
     "group": ""
   },
@@ -643,7 +643,7 @@
     "id": "1680769791-605",
     "brand": "Bugatti",
     "name": "Bugatti VGT (Gr.1)",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/107.jpg",
+    "image": "./cars/107.jpg",
     "pp": "936.17",
     "group": "Gr.1"
   },
@@ -651,7 +651,7 @@
     "id": "1680769789-604",
     "brand": "Bugatti",
     "name": "Veyron Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/109.jpg",
+    "image": "./cars/109.jpg",
     "pp": "638.66",
     "group": "Gr.4"
   },
@@ -659,7 +659,7 @@
     "id": "1680769787-603",
     "brand": "Chaparral",
     "name": "2J '70",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/365.jpg",
+    "image": "./cars/365.jpg",
     "pp": "876.09",
     "group": ""
   },
@@ -667,7 +667,7 @@
     "id": "1680769785-602",
     "brand": "Chaparral",
     "name": "Chaparral 2X VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/366.jpg",
+    "image": "./cars/366.jpg",
     "pp": "1038.66",
     "group": ""
   },
@@ -675,7 +675,7 @@
     "id": "1680769783-601",
     "brand": "Chevrolet",
     "name": "Camaro SS '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/367.jpg",
+    "image": "./cars/367.jpg",
     "pp": "554.01",
     "group": ""
   },
@@ -683,7 +683,7 @@
     "id": "1680769781-600",
     "brand": "Chevrolet",
     "name": "Camaro Z28 '69",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/368.jpg",
+    "image": "./cars/368.jpg",
     "pp": "439.40",
     "group": ""
   },
@@ -691,7 +691,7 @@
     "id": "1680769779-599",
     "brand": "Chevrolet",
     "name": "Camaro ZL1 1LE Package '18",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/369.jpg",
+    "image": "./cars/369.jpg",
     "pp": "620.64",
     "group": ""
   },
@@ -699,7 +699,7 @@
     "id": "1680769776-598",
     "brand": "Chevrolet",
     "name": "Corvette (C2) '63",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/370.jpg",
+    "image": "./cars/370.jpg",
     "pp": "495.12",
     "group": ""
   },
@@ -707,7 +707,7 @@
     "id": "1680769774-597",
     "brand": "Chevrolet",
     "name": "Corvette C7 '14",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/371.jpg",
+    "image": "./cars/371.jpg",
     "pp": "576.40",
     "group": ""
   },
@@ -715,7 +715,7 @@
     "id": "1680769772-596",
     "brand": "Chevrolet",
     "name": "Corvette C7 Gr.3 Road Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/373.jpg",
+    "image": "./cars/373.jpg",
     "pp": "572.22",
     "group": ""
   },
@@ -723,7 +723,7 @@
     "id": "1680769770-595",
     "brand": "Chevrolet",
     "name": "Corvette C7 ZR1 '19",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/375.jpg",
+    "image": "./cars/375.jpg",
     "pp": "648.34",
     "group": ""
   },
@@ -731,7 +731,7 @@
     "id": "1680769768-594",
     "brand": "Chevrolet",
     "name": "Corvette C8 '20",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/456.jpg",
+    "image": "./cars/456.jpg",
     "pp": "585.02",
     "group": ""
   },
@@ -739,7 +739,7 @@
     "id": "1680769766-593",
     "brand": "Chevrolet",
     "name": "Corvette Convertible (C3) '69",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/376.jpg",
+    "image": "./cars/376.jpg",
     "pp": "444.55",
     "group": ""
   },
@@ -747,7 +747,7 @@
     "id": "1680769764-592",
     "brand": "Chevrolet",
     "name": "Corvette Stingray (C3) '69",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/377.jpg",
+    "image": "./cars/377.jpg",
     "pp": "500.57",
     "group": ""
   },
@@ -755,7 +755,7 @@
     "id": "1680769761-591",
     "brand": "Chevrolet",
     "name": "Corvette Stingray Racer Concept '59",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/378.jpg",
+    "image": "./cars/378.jpg",
     "pp": "516.00",
     "group": ""
   },
@@ -763,7 +763,7 @@
     "id": "1680769759-590",
     "brand": "Chevrolet",
     "name": "Corvette ZR-1 (C4) '89",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/379.jpg",
+    "image": "./cars/379.jpg",
     "pp": "509.52",
     "group": ""
   },
@@ -771,7 +771,7 @@
     "id": "1680769757-589",
     "brand": "Chevrolet",
     "name": "Corvette ZR1 (C6) '09",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/380.jpg",
+    "image": "./cars/380.jpg",
     "pp": "612.04",
     "group": ""
   },
@@ -779,7 +779,7 @@
     "id": "1680769755-588",
     "brand": "Chevrolet",
     "name": "Corvette C7 Gr.3",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/372.jpg",
+    "image": "./cars/372.jpg",
     "pp": "723.91",
     "group": "Gr.3"
   },
@@ -787,7 +787,7 @@
     "id": "1680769753-587",
     "brand": "Chevrolet",
     "name": "Corvette C7 Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/374.jpg",
+    "image": "./cars/374.jpg",
     "pp": "648.34",
     "group": "Gr.4"
   },
@@ -795,7 +795,7 @@
     "id": "1680769751-586",
     "brand": "Chris Holstrom Concepts",
     "name": "CHC 1967 Chevy Nova",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/381.jpg",
+    "image": "./cars/381.jpg",
     "pp": "611.46",
     "group": ""
   },
@@ -803,7 +803,7 @@
     "id": "1680769749-585",
     "brand": "Citroën",
     "name": "DS 21 Pallas '70",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/459.jpg",
+    "image": "./cars/459.jpg",
     "pp": "335.37",
     "group": ""
   },
@@ -811,7 +811,7 @@
     "id": "1680769746-584",
     "brand": "Citroën",
     "name": "GT by Citroën Road Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/112.jpg",
+    "image": "./cars/112.jpg",
     "pp": "590.96",
     "group": ""
   },
@@ -819,7 +819,7 @@
     "id": "1680769744-583",
     "brand": "Citroën",
     "name": "GT by Citroën Race Car (Gr.3)",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/111.jpg",
+    "image": "./cars/111.jpg",
     "pp": "761.04",
     "group": "Gr.3"
   },
@@ -827,7 +827,7 @@
     "id": "1680769742-582",
     "brand": "Citroën",
     "name": "GT by Citroën Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/110.jpg",
+    "image": "./cars/110.jpg",
     "pp": "650.01",
     "group": "Gr.4"
   },
@@ -835,7 +835,7 @@
     "id": "1680769740-581",
     "brand": "Daihatsu",
     "name": "Copen '02",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/196.jpg",
+    "image": "./cars/196.jpg",
     "pp": "285.45",
     "group": ""
   },
@@ -843,7 +843,7 @@
     "id": "1680769738-580",
     "brand": "Daihatsu",
     "name": "COPEN RJ VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/195.jpg",
+    "image": "./cars/195.jpg",
     "pp": "500.70",
     "group": ""
   },
@@ -851,7 +851,7 @@
     "id": "1680769736-579",
     "brand": "De Tomaso",
     "name": "Mangusta '69",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/150.jpg",
+    "image": "./cars/150.jpg",
     "pp": "485.22",
     "group": ""
   },
@@ -859,7 +859,7 @@
     "id": "1680769734-578",
     "brand": "De Tomaso",
     "name": "Mangusta (Christian Dior)",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/440.jpg",
+    "image": "./cars/440.jpg",
     "pp": "484.59",
     "group": ""
   },
@@ -867,7 +867,7 @@
     "id": "1680769731-577",
     "brand": "De Tomaso",
     "name": "Pantera '71",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/151.jpg",
+    "image": "./cars/151.jpg",
     "pp": "466.30",
     "group": ""
   },
@@ -875,7 +875,7 @@
     "id": "1680769729-576",
     "brand": "DMC",
     "name": "DeLorean S2 '04",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/382.jpg",
+    "image": "./cars/382.jpg",
     "pp": "447.43",
     "group": ""
   },
@@ -883,7 +883,7 @@
     "id": "1680769727-575",
     "brand": "Dodge",
     "name": "Challenger R.T '70",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/383.jpg",
+    "image": "./cars/383.jpg",
     "pp": "478.84",
     "group": ""
   },
@@ -891,7 +891,7 @@
     "id": "1680769725-574",
     "brand": "Dodge",
     "name": "Charger SRT Hellcat '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/384.jpg",
+    "image": "./cars/384.jpg",
     "pp": "599.88",
     "group": ""
   },
@@ -899,7 +899,7 @@
     "id": "1680769723-573",
     "brand": "Dodge",
     "name": "Charger SRT Hellcat Safety Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/385.jpg",
+    "image": "./cars/385.jpg",
     "pp": "600.78",
     "group": ""
   },
@@ -907,7 +907,7 @@
     "id": "1680769721-572",
     "brand": "Dodge",
     "name": "SRT Tomahawk GTS-R VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/386.jpg",
+    "image": "./cars/386.jpg",
     "pp": "1143.90",
     "group": ""
   },
@@ -915,7 +915,7 @@
     "id": "1680769719-571",
     "brand": "Dodge",
     "name": "SRT Tomahawk S VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/387.jpg",
+    "image": "./cars/387.jpg",
     "pp": "922.31",
     "group": ""
   },
@@ -923,7 +923,7 @@
     "id": "1680769717-570",
     "brand": "Dodge",
     "name": "SRT Tomahawk X VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/389.jpg",
+    "image": "./cars/389.jpg",
     "pp": "1341.38",
     "group": ""
   },
@@ -931,7 +931,7 @@
     "id": "1680769714-569",
     "brand": "Dodge",
     "name": "Super Bee '70",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/390.jpg",
+    "image": "./cars/390.jpg",
     "pp": "436.56",
     "group": ""
   },
@@ -939,7 +939,7 @@
     "id": "1680769712-568",
     "brand": "Dodge",
     "name": "Viper GTS '02",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/391.jpg",
+    "image": "./cars/391.jpg",
     "pp": "558.42",
     "group": ""
   },
@@ -947,7 +947,7 @@
     "id": "1680769710-567",
     "brand": "Dodge",
     "name": "Viper GTS '13",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/392.jpg",
+    "image": "./cars/392.jpg",
     "pp": "599.21",
     "group": ""
   },
@@ -955,7 +955,7 @@
     "id": "1680769708-566",
     "brand": "Dodge",
     "name": "Viper SRT10 Coupe '06",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/395.jpg",
+    "image": "./cars/395.jpg",
     "pp": "575.21",
     "group": ""
   },
@@ -963,7 +963,7 @@
     "id": "1680769706-565",
     "brand": "Dodge",
     "name": "SRT Tomahawk VGT (Gr.1)",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/388.jpg",
+    "image": "./cars/388.jpg",
     "pp": "948.02",
     "group": "Gr.1"
   },
@@ -971,7 +971,7 @@
     "id": "1680769704-564",
     "brand": "Dodge",
     "name": "Viper SRT GT3-R '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/394.jpg",
+    "image": "./cars/394.jpg",
     "pp": "755.99",
     "group": "Gr.3"
   },
@@ -979,7 +979,7 @@
     "id": "1680769702-563",
     "brand": "Dodge",
     "name": "Viper Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/393.jpg",
+    "image": "./cars/393.jpg",
     "pp": "648.96",
     "group": "Gr.4"
   },
@@ -987,7 +987,7 @@
     "id": "1680769699-562",
     "brand": "DS Automobiles",
     "name": "DS 3 Racing '11",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/113.jpg",
+    "image": "./cars/113.jpg",
     "pp": "456.66",
     "group": ""
   },
@@ -995,7 +995,7 @@
     "id": "1680769697-561",
     "brand": "Eckert's Rod & Custom",
     "name": "Mach Forty",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/396.jpg",
+    "image": "./cars/396.jpg",
     "pp": "635.04",
     "group": ""
   },
@@ -1003,7 +1003,7 @@
     "id": "1680769695-560",
     "brand": "Ferrari",
     "name": "250 GT Berlinetta passo corto '61",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/152.jpg",
+    "image": "./cars/152.jpg",
     "pp": "464.49",
     "group": ""
   },
@@ -1011,7 +1011,7 @@
     "id": "1680769693-559",
     "brand": "Ferrari",
     "name": "250 GTO '62",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/153.jpg",
+    "image": "./cars/153.jpg",
     "pp": "531.21",
     "group": ""
   },
@@ -1019,7 +1019,7 @@
     "id": "1680769691-558",
     "brand": "Ferrari",
     "name": "308 GTB '75",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/154.jpg",
+    "image": "./cars/154.jpg",
     "pp": "468.67",
     "group": ""
   },
@@ -1027,7 +1027,7 @@
     "id": "1680769689-557",
     "brand": "Ferrari",
     "name": "330 P4 '67",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/155.jpg",
+    "image": "./cars/155.jpg",
     "pp": "733.21",
     "group": ""
   },
@@ -1035,7 +1035,7 @@
     "id": "1680769687-556",
     "brand": "Ferrari",
     "name": "365 GTB4 '71",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/156.jpg",
+    "image": "./cars/156.jpg",
     "pp": "540.70",
     "group": ""
   },
@@ -1043,7 +1043,7 @@
     "id": "1680769685-555",
     "brand": "Ferrari",
     "name": "458 Italia '09",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/157.jpg",
+    "image": "./cars/157.jpg",
     "pp": "614.56",
     "group": ""
   },
@@ -1051,7 +1051,7 @@
     "id": "1680769682-554",
     "brand": "Ferrari",
     "name": "500 Mondial Pinin Farina Coupe '54",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/160.jpg",
+    "image": "./cars/160.jpg",
     "pp": "461.91",
     "group": ""
   },
@@ -1059,7 +1059,7 @@
     "id": "1680769680-553",
     "brand": "Ferrari",
     "name": "512 BB '76",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/161.jpg",
+    "image": "./cars/161.jpg",
     "pp": "527.63",
     "group": ""
   },
@@ -1067,7 +1067,7 @@
     "id": "1680769678-552",
     "brand": "Ferrari",
     "name": "Dino 246 GT '71",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/162.jpg",
+    "image": "./cars/162.jpg",
     "pp": "439.86",
     "group": ""
   },
@@ -1075,7 +1075,7 @@
     "id": "1680769676-551",
     "brand": "Ferrari",
     "name": "Enzo Ferrari '02",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/163.jpg",
+    "image": "./cars/163.jpg",
     "pp": "662.80",
     "group": ""
   },
@@ -1083,7 +1083,7 @@
     "id": "1680769674-550",
     "brand": "Ferrari",
     "name": "F12berlinetta '12",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/164.jpg",
+    "image": "./cars/164.jpg",
     "pp": "643.07",
     "group": ""
   },
@@ -1091,7 +1091,7 @@
     "id": "1680769672-549",
     "brand": "Ferrari",
     "name": "F40 '92",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/165.jpg",
+    "image": "./cars/165.jpg",
     "pp": "607.78",
     "group": ""
   },
@@ -1099,7 +1099,7 @@
     "id": "1680769670-548",
     "brand": "Ferrari",
     "name": "F430 '06",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/166.jpg",
+    "image": "./cars/166.jpg",
     "pp": "596.98",
     "group": ""
   },
@@ -1107,7 +1107,7 @@
     "id": "1680769667-547",
     "brand": "Ferrari",
     "name": "F50 '95",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/167.jpg",
+    "image": "./cars/167.jpg",
     "pp": "614.18",
     "group": ""
   },
@@ -1115,7 +1115,7 @@
     "id": "1680769665-546",
     "brand": "Ferrari",
     "name": "F8 Tributo '19",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/168.jpg",
+    "image": "./cars/168.jpg",
     "pp": "693.35",
     "group": ""
   },
@@ -1123,7 +1123,7 @@
     "id": "1680769663-545",
     "brand": "Ferrari",
     "name": "Ferrari VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/454.jpg",
+    "image": "./cars/454.jpg",
     "pp": "938.80",
     "group": ""
   },
@@ -1131,7 +1131,7 @@
     "id": "1680769661-544",
     "brand": "Ferrari",
     "name": "FXX K '14",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/169.jpg",
+    "image": "./cars/169.jpg",
     "pp": "814.65",
     "group": ""
   },
@@ -1139,7 +1139,7 @@
     "id": "1680769659-543",
     "brand": "Ferrari",
     "name": "GTO '84",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/170.jpg",
+    "image": "./cars/170.jpg",
     "pp": "553.82",
     "group": ""
   },
@@ -1147,7 +1147,7 @@
     "id": "1680769657-542",
     "brand": "Ferrari",
     "name": "LaFerrari '13",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/171.jpg",
+    "image": "./cars/171.jpg",
     "pp": "741.81",
     "group": ""
   },
@@ -1155,7 +1155,7 @@
     "id": "1680769655-541",
     "brand": "Ferrari",
     "name": "Testarossa '91",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/172.jpg",
+    "image": "./cars/172.jpg",
     "pp": "521.97",
     "group": ""
   },
@@ -1163,7 +1163,7 @@
     "id": "1680769652-540",
     "brand": "Ferrari",
     "name": "458 Italia GT3 '13",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/158.jpg",
+    "image": "./cars/158.jpg",
     "pp": "739.70",
     "group": "Gr.3"
   },
@@ -1171,7 +1171,7 @@
     "id": "1680769650-539",
     "brand": "Ferrari",
     "name": "458 Italia Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/159.jpg",
+    "image": "./cars/159.jpg",
     "pp": "636.35",
     "group": "Gr.4"
   },
@@ -1179,7 +1179,7 @@
     "id": "1680769648-538",
     "brand": "Fiat",
     "name": "500 1.2 8V Lounge SS '08",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/173.jpg",
+    "image": "./cars/173.jpg",
     "pp": "274.82",
     "group": ""
   },
@@ -1187,7 +1187,7 @@
     "id": "1680769646-537",
     "brand": "Fiat",
     "name": "500 F '68",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/174.jpg",
+    "image": "./cars/174.jpg",
     "pp": "83.11",
     "group": ""
   },
@@ -1195,7 +1195,7 @@
     "id": "1680769644-536",
     "brand": "Ford",
     "name": "F-150 SVT Raptor '11",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/397.jpg",
+    "image": "./cars/397.jpg",
     "pp": "432.29",
     "group": ""
   },
@@ -1203,7 +1203,7 @@
     "id": "1680769642-535",
     "brand": "Ford",
     "name": "Focus RS '18",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/399.jpg",
+    "image": "./cars/399.jpg",
     "pp": "521.34",
     "group": ""
   },
@@ -1211,7 +1211,7 @@
     "id": "1680769640-534",
     "brand": "Ford",
     "name": "Focus ST '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/400.jpg",
+    "image": "./cars/400.jpg",
     "pp": "490.26",
     "group": ""
   },
@@ -1219,7 +1219,7 @@
     "id": "1680769638-533",
     "brand": "Ford",
     "name": "Ford GT '06",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/401.jpg",
+    "image": "./cars/401.jpg",
     "pp": "601.19",
     "group": ""
   },
@@ -1227,7 +1227,7 @@
     "id": "1680769635-532",
     "brand": "Ford",
     "name": "Ford GT '17",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/402.jpg",
+    "image": "./cars/402.jpg",
     "pp": "629.41",
     "group": ""
   },
@@ -1235,7 +1235,7 @@
     "id": "1680769633-531",
     "brand": "Ford",
     "name": "Ford Roadster",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/434.jpg",
+    "image": "./cars/434.jpg",
     "pp": "410.43",
     "group": ""
   },
@@ -1243,7 +1243,7 @@
     "id": "1680769631-530",
     "brand": "Ford",
     "name": "GT40 Mark I '66",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/406.jpg",
+    "image": "./cars/406.jpg",
     "pp": "557.20",
     "group": ""
   },
@@ -1251,7 +1251,7 @@
     "id": "1680769629-529",
     "brand": "Ford",
     "name": "Mark IV Race Car '67",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/407.jpg",
+    "image": "./cars/407.jpg",
     "pp": "710.48",
     "group": ""
   },
@@ -1259,7 +1259,7 @@
     "id": "1680769627-528",
     "brand": "Ford",
     "name": "Mustang Boss 429 '69",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/408.jpg",
+    "image": "./cars/408.jpg",
     "pp": "496.62",
     "group": ""
   },
@@ -1267,7 +1267,7 @@
     "id": "1680769625-527",
     "brand": "Ford",
     "name": "Mustang Gr.3 Road Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/411.jpg",
+    "image": "./cars/411.jpg",
     "pp": "567.73",
     "group": ""
   },
@@ -1275,7 +1275,7 @@
     "id": "1680769623-526",
     "brand": "Ford",
     "name": "Mustang GT '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/409.jpg",
+    "image": "./cars/409.jpg",
     "pp": "534.76",
     "group": ""
   },
@@ -1283,7 +1283,7 @@
     "id": "1680769620-525",
     "brand": "Ford",
     "name": "Mustang Mach 1 '71",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/414.jpg",
+    "image": "./cars/414.jpg",
     "pp": "434.67",
     "group": ""
   },
@@ -1291,7 +1291,7 @@
     "id": "1680769618-524",
     "brand": "Ford",
     "name": "Shelby GT350R '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/415.jpg",
+    "image": "./cars/415.jpg",
     "pp": "576.38",
     "group": ""
   },
@@ -1299,7 +1299,7 @@
     "id": "1680769616-523",
     "brand": "Ford",
     "name": "Sierra RS 500 Cosworth '87",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/451.jpg",
+    "image": "./cars/451.jpg",
     "pp": "468.10",
     "group": ""
   },
@@ -1307,7 +1307,7 @@
     "id": "1680769614-522",
     "brand": "Ford",
     "name": "Ford GT LM Race Car Spec II",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/403.jpg",
+    "image": "./cars/403.jpg",
     "pp": "754.88",
     "group": "Gr.3"
   },
@@ -1315,7 +1315,7 @@
     "id": "1680769612-521",
     "brand": "Ford",
     "name": "Ford GT LM Spec II Test Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/404.jpg",
+    "image": "./cars/404.jpg",
     "pp": "757.95",
     "group": "Gr.3"
   },
@@ -1323,7 +1323,7 @@
     "id": "1680769610-520",
     "brand": "Ford",
     "name": "Ford GT Race Car '18",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/405.jpg",
+    "image": "./cars/405.jpg",
     "pp": "731.77",
     "group": "Gr.3"
   },
@@ -1331,7 +1331,7 @@
     "id": "1680769608-519",
     "brand": "Ford",
     "name": "Mustang Gr.3",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/410.jpg",
+    "image": "./cars/410.jpg",
     "pp": "718.45",
     "group": "Gr.3"
   },
@@ -1339,7 +1339,7 @@
     "id": "1680769605-518",
     "brand": "Ford",
     "name": "Mustang Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/412.jpg",
+    "image": "./cars/412.jpg",
     "pp": "635.84",
     "group": "Gr.4"
   },
@@ -1347,7 +1347,7 @@
     "id": "1680769603-517",
     "brand": "Ford",
     "name": "Focus Gr.B Rally Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/398.jpg",
+    "image": "./cars/398.jpg",
     "pp": "656.91",
     "group": "Gr.B"
   },
@@ -1355,7 +1355,7 @@
     "id": "1680769601-516",
     "brand": "Ford",
     "name": "Mustang Gr.B Rally Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/413.jpg",
+    "image": "./cars/413.jpg",
     "pp": "653.10",
     "group": "Gr.B"
   },
@@ -1363,7 +1363,7 @@
     "id": "1680769599-515",
     "brand": "Genesis",
     "name": "G70 3.3T AWD P.Package '22",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/091.jpg",
+    "image": "./cars/091.jpg",
     "pp": "510.09",
     "group": ""
   },
@@ -1371,7 +1371,7 @@
     "id": "1680769597-514",
     "brand": "Genesis",
     "name": "Genesis X GR3",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/093.jpg",
+    "image": "./cars/093.jpg",
     "pp": "717.49",
     "group": "Gr.3"
   },
@@ -1379,7 +1379,7 @@
     "id": "1680769595-513",
     "brand": "Genesis",
     "name": "G70 GR4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/092.jpg",
+    "image": "./cars/092.jpg",
     "pp": "650.71",
     "group": "Gr.4"
   },
@@ -1387,7 +1387,7 @@
     "id": "1680769593-512",
     "brand": "Gran Turismo",
     "name": "F1500T-A",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/084.jpg",
+    "image": "./cars/084.jpg",
     "pp": "911.09",
     "group": ""
   },
@@ -1395,7 +1395,7 @@
     "id": "1680769590-511",
     "brand": "Gran Turismo",
     "name": "Racing Kart 125 Shifter",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/085.jpg",
+    "image": "./cars/085.jpg",
     "pp": "589.81",
     "group": ""
   },
@@ -1403,7 +1403,7 @@
     "id": "1680769588-510",
     "brand": "Gran Turismo",
     "name": "Red Bull X2014 Junior",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/086.jpg",
+    "image": "./cars/086.jpg",
     "pp": "685.08",
     "group": ""
   },
@@ -1411,7 +1411,7 @@
     "id": "1680769586-509",
     "brand": "Gran Turismo",
     "name": "Red Bull X2014 Standard",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/087.jpg",
+    "image": "./cars/087.jpg",
     "pp": "1071.89",
     "group": ""
   },
@@ -1419,7 +1419,7 @@
     "id": "1680769584-508",
     "brand": "Gran Turismo",
     "name": "Red Bull X2019 25th Anniversary",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/453.jpg",
+    "image": "./cars/453.jpg",
     "pp": "971.27",
     "group": ""
   },
@@ -1427,7 +1427,7 @@
     "id": "1680769582-507",
     "brand": "Gran Turismo",
     "name": "Red Bull X2019 Competition",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/088.jpg",
+    "image": "./cars/088.jpg",
     "pp": "958.69",
     "group": ""
   },
@@ -1435,7 +1435,7 @@
     "id": "1680769580-506",
     "brand": "Greddy",
     "name": "Greddy Fugu Z",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/416.jpg",
+    "image": "./cars/416.jpg",
     "pp": "538.18",
     "group": ""
   },
@@ -1443,7 +1443,7 @@
     "id": "1680769578-505",
     "brand": "Honda",
     "name": "2&4 powered by RC213V",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/197.jpg",
+    "image": "./cars/197.jpg",
     "pp": "553.60",
     "group": ""
   },
@@ -1451,7 +1451,7 @@
     "id": "1680769576-504",
     "brand": "Honda",
     "name": "Beat '91",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/198.jpg",
+    "image": "./cars/198.jpg",
     "pp": "310.27",
     "group": ""
   },
@@ -1459,7 +1459,7 @@
     "id": "1680769573-503",
     "brand": "Honda",
     "name": "Civic Type R (EK) '97",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/199.jpg",
+    "image": "./cars/199.jpg",
     "pp": "432.86",
     "group": ""
   },
@@ -1467,7 +1467,7 @@
     "id": "1680769571-502",
     "brand": "Honda",
     "name": "Civic Type R (EK) '98",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/200.jpg",
+    "image": "./cars/200.jpg",
     "pp": "433.79",
     "group": ""
   },
@@ -1475,7 +1475,7 @@
     "id": "1680769569-501",
     "brand": "Honda",
     "name": "Civic Type R (EK) Touring Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/201.jpg",
+    "image": "./cars/201.jpg",
     "pp": "544.02",
     "group": ""
   },
@@ -1483,7 +1483,7 @@
     "id": "1680769567-500",
     "brand": "Honda",
     "name": "Civic Type R (FK2) '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/202.jpg",
+    "image": "./cars/202.jpg",
     "pp": "513.94",
     "group": ""
   },
@@ -1491,7 +1491,7 @@
     "id": "1680769565-499",
     "brand": "Honda",
     "name": "Civic Type R Limited Edition (FK8) '20",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/203.jpg",
+    "image": "./cars/203.jpg",
     "pp": "531.08",
     "group": ""
   },
@@ -1499,7 +1499,7 @@
     "id": "1680769563-498",
     "brand": "Honda",
     "name": "Fit Hybrid '14",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/204.jpg",
+    "image": "./cars/204.jpg",
     "pp": "333.26",
     "group": ""
   },
@@ -1507,7 +1507,7 @@
     "id": "1680769561-497",
     "brand": "Honda",
     "name": "Honda Sports VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/205.jpg",
+    "image": "./cars/205.jpg",
     "pp": "661.78",
     "group": ""
   },
@@ -1515,7 +1515,7 @@
     "id": "1680769558-496",
     "brand": "Honda",
     "name": "Integra Type R (DC2) '95",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/206.jpg",
+    "image": "./cars/206.jpg",
     "pp": "452.32",
     "group": ""
   },
@@ -1523,7 +1523,7 @@
     "id": "1680769556-495",
     "brand": "Honda",
     "name": "Integra Type R (DC2) '98",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/207.jpg",
+    "image": "./cars/207.jpg",
     "pp": "455.75",
     "group": ""
   },
@@ -1531,7 +1531,7 @@
     "id": "1680769554-494",
     "brand": "Honda",
     "name": "NSX '17",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/208.jpg",
+    "image": "./cars/208.jpg",
     "pp": "583.13",
     "group": ""
   },
@@ -1539,7 +1539,7 @@
     "id": "1680769552-493",
     "brand": "Honda",
     "name": "NSX Type R '02",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/214.jpg",
+    "image": "./cars/214.jpg",
     "pp": "530.09",
     "group": ""
   },
@@ -1547,7 +1547,7 @@
     "id": "1680769550-492",
     "brand": "Honda",
     "name": "NSX Type R '92",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/215.jpg",
+    "image": "./cars/215.jpg",
     "pp": "526.18",
     "group": ""
   },
@@ -1555,7 +1555,7 @@
     "id": "1680769548-491",
     "brand": "Honda",
     "name": "RA272 '65",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/461.jpg",
+    "image": "./cars/461.jpg",
     "pp": "628.27",
     "group": ""
   },
@@ -1563,7 +1563,7 @@
     "id": "1680769546-490",
     "brand": "Honda",
     "name": "S2000 '99",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/216.jpg",
+    "image": "./cars/216.jpg",
     "pp": "480.68",
     "group": ""
   },
@@ -1571,7 +1571,7 @@
     "id": "1680769543-489",
     "brand": "Honda",
     "name": "S660 '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/217.jpg",
+    "image": "./cars/217.jpg",
     "pp": "342.01",
     "group": ""
   },
@@ -1579,7 +1579,7 @@
     "id": "1680769541-488",
     "brand": "Honda",
     "name": "S800 '66",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/218.jpg",
+    "image": "./cars/218.jpg",
     "pp": "269.86",
     "group": ""
   },
@@ -1587,7 +1587,7 @@
     "id": "1680769539-487",
     "brand": "Honda",
     "name": "NSX CONCEPT-GT '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/209.jpg",
+    "image": "./cars/209.jpg",
     "pp": "851.65",
     "group": "Gr.2"
   },
@@ -1595,7 +1595,7 @@
     "id": "1680769537-486",
     "brand": "Honda",
     "name": "NSX GT500 '08",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/210.jpg",
+    "image": "./cars/210.jpg",
     "pp": "793.72",
     "group": "Gr.2"
   },
@@ -1603,7 +1603,7 @@
     "id": "1680769535-485",
     "brand": "Honda",
     "name": "NSX Gr.3",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/211.jpg",
+    "image": "./cars/211.jpg",
     "pp": "723.61",
     "group": "Gr.3"
   },
@@ -1611,7 +1611,7 @@
     "id": "1680769533-484",
     "brand": "Honda",
     "name": "NSX Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/212.jpg",
+    "image": "./cars/212.jpg",
     "pp": "643.86",
     "group": "Gr.4"
   },
@@ -1619,7 +1619,7 @@
     "id": "1680769531-483",
     "brand": "Honda",
     "name": "NSX Gr.B Rally Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/213.jpg",
+    "image": "./cars/213.jpg",
     "pp": "661.10",
     "group": "Gr.B"
   },
@@ -1627,7 +1627,7 @@
     "id": "1680769529-482",
     "brand": "Hyundai",
     "name": "Genesis Coupe 3.8 '13",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/094.jpg",
+    "image": "./cars/094.jpg",
     "pp": "507.39",
     "group": ""
   },
@@ -1635,7 +1635,7 @@
     "id": "1680769526-481",
     "brand": "Hyundai",
     "name": "HYUNDAI N 2025 VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/098.jpg",
+    "image": "./cars/098.jpg",
     "pp": "1003.36",
     "group": ""
   },
@@ -1643,7 +1643,7 @@
     "id": "1680769524-480",
     "brand": "Hyundai",
     "name": "HYUNDAI N 2025 VGT (Gr.1)",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/099.jpg",
+    "image": "./cars/099.jpg",
     "pp": "930.86",
     "group": "Gr.1"
   },
@@ -1651,7 +1651,7 @@
     "id": "1680769522-479",
     "brand": "Hyundai",
     "name": "Genesis Gr.3",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/095.jpg",
+    "image": "./cars/095.jpg",
     "pp": "721.32",
     "group": "Gr.3"
   },
@@ -1659,7 +1659,7 @@
     "id": "1680769520-478",
     "brand": "Hyundai",
     "name": "Genesis Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/096.jpg",
+    "image": "./cars/096.jpg",
     "pp": "630.49",
     "group": "Gr.4"
   },
@@ -1667,7 +1667,7 @@
     "id": "1680769518-477",
     "brand": "Hyundai",
     "name": "Genesis Gr.B Rally Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/097.jpg",
+    "image": "./cars/097.jpg",
     "pp": "652.00",
     "group": "Gr.B"
   },
@@ -1675,7 +1675,7 @@
     "id": "1680769516-476",
     "brand": "Infiniti",
     "name": "INFINITI CONCEPT VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/417.jpg",
+    "image": "./cars/417.jpg",
     "pp": "649.21",
     "group": ""
   },
@@ -1683,7 +1683,7 @@
     "id": "1680769514-475",
     "brand": "Italdesign",
     "name": "VGT Off-road Mode",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/463.jpg",
+    "image": "./cars/463.jpg",
     "pp": "798.32",
     "group": ""
   },
@@ -1691,7 +1691,7 @@
     "id": "1680769511-474",
     "brand": "Italdesign",
     "name": "VGT Street Mode",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/462.jpg",
+    "image": "./cars/462.jpg",
     "pp": "805.53",
     "group": ""
   },
@@ -1699,7 +1699,7 @@
     "id": "1680769509-473",
     "brand": "Jaguar",
     "name": "D-type '54",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/345.jpg",
+    "image": "./cars/345.jpg",
     "pp": "495.78",
     "group": ""
   },
@@ -1707,7 +1707,7 @@
     "id": "1680769507-472",
     "brand": "Jaguar",
     "name": "E-type Coupé '61",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/346.jpg",
+    "image": "./cars/346.jpg",
     "pp": "436.49",
     "group": ""
   },
@@ -1715,7 +1715,7 @@
     "id": "1680769505-471",
     "brand": "Jaguar",
     "name": "F-type R '14",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/349.jpg",
+    "image": "./cars/349.jpg",
     "pp": "576.90",
     "group": ""
   },
@@ -1723,7 +1723,7 @@
     "id": "1680769503-470",
     "brand": "Jaguar",
     "name": "Jaguar VGT Coupé",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/350.jpg",
+    "image": "./cars/350.jpg",
     "pp": "756.29",
     "group": ""
   },
@@ -1731,7 +1731,7 @@
     "id": "1680769501-469",
     "brand": "Jaguar",
     "name": "Jaguar VGT Roadster",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/351.jpg",
+    "image": "./cars/351.jpg",
     "pp": "752.86",
     "group": ""
   },
@@ -1739,7 +1739,7 @@
     "id": "1680769498-468",
     "brand": "Jaguar",
     "name": "Jaguar VGT SV",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/352.jpg",
+    "image": "./cars/352.jpg",
     "pp": "1036.74",
     "group": ""
   },
@@ -1747,7 +1747,7 @@
     "id": "1680769496-467",
     "brand": "Jaguar",
     "name": "XJ13 '66",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/353.jpg",
+    "image": "./cars/353.jpg",
     "pp": "704.71",
     "group": ""
   },
@@ -1755,7 +1755,7 @@
     "id": "1680769494-466",
     "brand": "Jaguar",
     "name": "XJR-9 '88",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/354.jpg",
+    "image": "./cars/354.jpg",
     "pp": "898.47",
     "group": "Gr.1"
   },
@@ -1763,7 +1763,7 @@
     "id": "1680769492-465",
     "brand": "Jaguar",
     "name": "F-type Gr.3",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/347.jpg",
+    "image": "./cars/347.jpg",
     "pp": "722.99",
     "group": "Gr.3"
   },
@@ -1771,7 +1771,7 @@
     "id": "1680769490-464",
     "brand": "Jaguar",
     "name": "F-type Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/348.jpg",
+    "image": "./cars/348.jpg",
     "pp": "639.99",
     "group": "Gr.4"
   },
@@ -1779,7 +1779,7 @@
     "id": "1680769488-463",
     "brand": "Jeep",
     "name": "Willys MB '45",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/418.jpg",
+    "image": "./cars/418.jpg",
     "pp": "195.62",
     "group": ""
   },
@@ -1787,7 +1787,7 @@
     "id": "1680769486-462",
     "brand": "KTM",
     "name": "X-BOW R '12",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/090.jpg",
+    "image": "./cars/090.jpg",
     "pp": "596.21",
     "group": ""
   },
@@ -1795,7 +1795,7 @@
     "id": "1680769483-461",
     "brand": "Lamborghini",
     "name": "Aventador LP 700-4 '11",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/175.jpg",
+    "image": "./cars/175.jpg",
     "pp": "633.44",
     "group": ""
   },
@@ -1803,7 +1803,7 @@
     "id": "1680769481-460",
     "brand": "Lamborghini",
     "name": "Aventador LP 750-4 SV '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/176.jpg",
+    "image": "./cars/176.jpg",
     "pp": "671.38",
     "group": ""
   },
@@ -1811,7 +1811,7 @@
     "id": "1680769479-459",
     "brand": "Lamborghini",
     "name": "Countach 25th Anniversary '88",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/177.jpg",
+    "image": "./cars/177.jpg",
     "pp": "530.36",
     "group": ""
   },
@@ -1819,7 +1819,7 @@
     "id": "1680769477-458",
     "brand": "Lamborghini",
     "name": "Countach LP400 '74",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/178.jpg",
+    "image": "./cars/178.jpg",
     "pp": "543.95",
     "group": ""
   },
@@ -1827,7 +1827,7 @@
     "id": "1680769475-457",
     "brand": "Lamborghini",
     "name": "Diablo GT '00",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/179.jpg",
+    "image": "./cars/179.jpg",
     "pp": "600.63",
     "group": ""
   },
@@ -1835,7 +1835,7 @@
     "id": "1680769473-456",
     "brand": "Lamborghini",
     "name": "Huracán LP 610-4 '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/182.jpg",
+    "image": "./cars/182.jpg",
     "pp": "629.90",
     "group": ""
   },
@@ -1843,7 +1843,7 @@
     "id": "1680769471-455",
     "brand": "Lamborghini",
     "name": "Lambo V12 VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/183.jpg",
+    "image": "./cars/183.jpg",
     "pp": "822.63",
     "group": ""
   },
@@ -1851,7 +1851,7 @@
     "id": "1680769469-454",
     "brand": "Lamborghini",
     "name": "Miura P400 Bertone Prototype '67",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/184.jpg",
+    "image": "./cars/184.jpg",
     "pp": "553.40",
     "group": ""
   },
@@ -1859,7 +1859,7 @@
     "id": "1680769466-453",
     "brand": "Lamborghini",
     "name": "Murciélago LP 640 '09",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/185.jpg",
+    "image": "./cars/185.jpg",
     "pp": "612.32",
     "group": ""
   },
@@ -1867,7 +1867,7 @@
     "id": "1680769464-452",
     "brand": "Lamborghini",
     "name": "Veneno '14",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/186.jpg",
+    "image": "./cars/186.jpg",
     "pp": "696.10",
     "group": ""
   },
@@ -1875,7 +1875,7 @@
     "id": "1680769462-451",
     "brand": "Lamborghini",
     "name": "Huracán GT3 '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/180.jpg",
+    "image": "./cars/180.jpg",
     "pp": "751.25",
     "group": "Gr.3"
   },
@@ -1883,7 +1883,7 @@
     "id": "1680769460-450",
     "brand": "Lamborghini",
     "name": "Huracán Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/181.jpg",
+    "image": "./cars/181.jpg",
     "pp": "663.59",
     "group": "Gr.4"
   },
@@ -1891,7 +1891,7 @@
     "id": "1680769458-449",
     "brand": "Lancia",
     "name": "Delta HF Integrale Evoluzione '91",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/187.jpg",
+    "image": "./cars/187.jpg",
     "pp": "401.85",
     "group": ""
   },
@@ -1899,7 +1899,7 @@
     "id": "1680769456-448",
     "brand": "Lancia",
     "name": "Stratos '73",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/188.jpg",
+    "image": "./cars/188.jpg",
     "pp": "437.60",
     "group": ""
   },
@@ -1907,7 +1907,7 @@
     "id": "1680769454-447",
     "brand": "Lexus",
     "name": "LC500 '17",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/219.jpg",
+    "image": "./cars/219.jpg",
     "pp": "548.93",
     "group": ""
   },
@@ -1915,7 +1915,7 @@
     "id": "1680769451-446",
     "brand": "Lexus",
     "name": "LF-LC GT VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/220.jpg",
+    "image": "./cars/220.jpg",
     "pp": "843.08",
     "group": ""
   },
@@ -1923,7 +1923,7 @@
     "id": "1680769449-445",
     "brand": "Lexus",
     "name": "RC F '14",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/221.jpg",
+    "image": "./cars/221.jpg",
     "pp": "550.09",
     "group": ""
   },
@@ -1931,7 +1931,7 @@
     "id": "1680769447-444",
     "brand": "Lexus",
     "name": "RC F GT500 '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/224.jpg",
+    "image": "./cars/224.jpg",
     "pp": "850.87",
     "group": "Gr.2"
   },
@@ -1939,7 +1939,7 @@
     "id": "1680769445-443",
     "brand": "Lexus",
     "name": "SC430 GT500 '08",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/226.jpg",
+    "image": "./cars/226.jpg",
     "pp": "790.64",
     "group": "Gr.2"
   },
@@ -1947,7 +1947,7 @@
     "id": "1680769443-442",
     "brand": "Lexus",
     "name": "RC F GT3 '17",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/222.jpg",
+    "image": "./cars/222.jpg",
     "pp": "713.63",
     "group": "Gr.3"
   },
@@ -1955,7 +1955,7 @@
     "id": "1680769441-441",
     "brand": "Lexus",
     "name": "RC F GT3 prototype '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/223.jpg",
+    "image": "./cars/223.jpg",
     "pp": "711.95",
     "group": "Gr.3"
   },
@@ -1963,7 +1963,7 @@
     "id": "1680769439-440",
     "brand": "Lexus",
     "name": "RC F Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/225.jpg",
+    "image": "./cars/225.jpg",
     "pp": "639.88",
     "group": "Gr.4"
   },
@@ -1971,7 +1971,7 @@
     "id": "1680769436-439",
     "brand": "Maserati",
     "name": "A6GCS/53 Spyder '54",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/437.jpg",
+    "image": "./cars/437.jpg",
     "pp": "502.08",
     "group": ""
   },
@@ -1979,7 +1979,7 @@
     "id": "1680769434-438",
     "brand": "Maserati",
     "name": "GranTurismo S '08",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/189.jpg",
+    "image": "./cars/189.jpg",
     "pp": "539.83",
     "group": ""
   },
@@ -1987,7 +1987,7 @@
     "id": "1680769432-437",
     "brand": "Maserati",
     "name": "Merak SS '80",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/448.jpg",
+    "image": "./cars/448.jpg",
     "pp": "422.29",
     "group": ""
   },
@@ -1995,7 +1995,7 @@
     "id": "1680769430-436",
     "brand": "Mazda",
     "name": "Atenza Gr.3 Road Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/229.jpg",
+    "image": "./cars/229.jpg",
     "pp": "572.31",
     "group": ""
   },
@@ -2003,7 +2003,7 @@
     "id": "1680769428-435",
     "brand": "Mazda",
     "name": "Atenza Sedan XD L Package '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/231.jpg",
+    "image": "./cars/231.jpg",
     "pp": "368.25",
     "group": ""
   },
@@ -2011,7 +2011,7 @@
     "id": "1680769426-434",
     "brand": "Mazda",
     "name": "Demio XD Touring '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/232.jpg",
+    "image": "./cars/232.jpg",
     "pp": "318.51",
     "group": ""
   },
@@ -2019,7 +2019,7 @@
     "id": "1680769424-433",
     "brand": "Mazda",
     "name": "Eunos Roadster (NA) '89",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/233.jpg",
+    "image": "./cars/233.jpg",
     "pp": "369.02",
     "group": ""
   },
@@ -2027,7 +2027,7 @@
     "id": "1680769422-432",
     "brand": "Mazda",
     "name": "LM55 VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/234.jpg",
+    "image": "./cars/234.jpg",
     "pp": "970.87",
     "group": ""
   },
@@ -2035,7 +2035,7 @@
     "id": "1680769419-431",
     "brand": "Mazda",
     "name": "Mazda3 '19",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/466.jpg",
+    "image": "./cars/466.jpg",
     "pp": "418.76",
     "group": ""
   },
@@ -2043,7 +2043,7 @@
     "id": "1680769417-430",
     "brand": "Mazda",
     "name": "Roadster NR-A (ND) '22",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/447.jpg",
+    "image": "./cars/447.jpg",
     "pp": "421.56",
     "group": ""
   },
@@ -2051,7 +2051,7 @@
     "id": "1680769415-429",
     "brand": "Mazda",
     "name": "Roadster S (ND) '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/243.jpg",
+    "image": "./cars/243.jpg",
     "pp": "411.43",
     "group": ""
   },
@@ -2059,7 +2059,7 @@
     "id": "1680769413-428",
     "brand": "Mazda",
     "name": "Roadster Touring Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/244.jpg",
+    "image": "./cars/244.jpg",
     "pp": "529.02",
     "group": ""
   },
@@ -2067,7 +2067,7 @@
     "id": "1680769411-427",
     "brand": "Mazda",
     "name": "RX-7 GT-X (FC) '90",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/236.jpg",
+    "image": "./cars/236.jpg",
     "pp": "451.69",
     "group": ""
   },
@@ -2075,7 +2075,7 @@
     "id": "1680769409-426",
     "brand": "Mazda",
     "name": "RX-7 Spirit R Type A (FD) '02",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/237.jpg",
+    "image": "./cars/237.jpg",
     "pp": "518.61",
     "group": ""
   },
@@ -2083,7 +2083,7 @@
     "id": "1680769407-425",
     "brand": "Mazda",
     "name": "RX-8 Spirit R '12",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/238.jpg",
+    "image": "./cars/238.jpg",
     "pp": "489.75",
     "group": ""
   },
@@ -2091,7 +2091,7 @@
     "id": "1680769404-424",
     "brand": "Mazda",
     "name": "RX-VISION '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/239.jpg",
+    "image": "./cars/239.jpg",
     "pp": "632.59",
     "group": ""
   },
@@ -2099,7 +2099,7 @@
     "id": "1680769402-423",
     "brand": "Mazda",
     "name": "RX500 '70",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/242.jpg",
+    "image": "./cars/242.jpg",
     "pp": "466.62",
     "group": ""
   },
@@ -2107,7 +2107,7 @@
     "id": "1680769400-422",
     "brand": "Mazda",
     "name": "787B '91",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/227.jpg",
+    "image": "./cars/227.jpg",
     "pp": "882.22",
     "group": "Gr.1"
   },
@@ -2115,7 +2115,7 @@
     "id": "1680769398-421",
     "brand": "Mazda",
     "name": "LM55 VGT (Gr.1)",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/235.jpg",
+    "image": "./cars/235.jpg",
     "pp": "928.50",
     "group": "Gr.1"
   },
@@ -2123,7 +2123,7 @@
     "id": "1680769396-420",
     "brand": "Mazda",
     "name": "Atenza Gr.3",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/228.jpg",
+    "image": "./cars/228.jpg",
     "pp": "715.44",
     "group": "Gr.3"
   },
@@ -2131,7 +2131,7 @@
     "id": "1680769394-419",
     "brand": "Mazda",
     "name": "RX-VISION GT3 CONCEPT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/240.jpg",
+    "image": "./cars/240.jpg",
     "pp": "737.58",
     "group": "Gr.3"
   },
@@ -2139,7 +2139,7 @@
     "id": "1680769392-418",
     "brand": "Mazda",
     "name": "RX-VISION GT3 CONCEPT Stealth Model",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/241.jpg",
+    "image": "./cars/241.jpg",
     "pp": "737.58",
     "group": "Gr.3"
   },
@@ -2147,7 +2147,7 @@
     "id": "1680769389-417",
     "brand": "Mazda",
     "name": "Atenza Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/230.jpg",
+    "image": "./cars/230.jpg",
     "pp": "611.93",
     "group": "Gr.4"
   },
@@ -2155,7 +2155,7 @@
     "id": "1680769387-416",
     "brand": "McLaren",
     "name": "650S '14",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/355.jpg",
+    "image": "./cars/355.jpg",
     "pp": "635.42",
     "group": ""
   },
@@ -2163,7 +2163,7 @@
     "id": "1680769385-415",
     "brand": "McLaren",
     "name": "McLaren F1 '94",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/359.jpg",
+    "image": "./cars/359.jpg",
     "pp": "646.77",
     "group": ""
   },
@@ -2171,7 +2171,7 @@
     "id": "1680769383-414",
     "brand": "McLaren",
     "name": "McLaren P1 GTR '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/361.jpg",
+    "image": "./cars/361.jpg",
     "pp": "797.72",
     "group": ""
   },
@@ -2179,7 +2179,7 @@
     "id": "1680769381-413",
     "brand": "McLaren",
     "name": "McLaren VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/362.jpg",
+    "image": "./cars/362.jpg",
     "pp": "990.29",
     "group": ""
   },
@@ -2187,7 +2187,7 @@
     "id": "1680769379-412",
     "brand": "McLaren",
     "name": "MP4-12C '10",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/358.jpg",
+    "image": "./cars/358.jpg",
     "pp": "627.15",
     "group": ""
   },
@@ -2195,7 +2195,7 @@
     "id": "1680769377-411",
     "brand": "McLaren",
     "name": "MP4/4 '88",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/441.jpg",
+    "image": "./cars/441.jpg",
     "pp": "895.23",
     "group": ""
   },
@@ -2203,7 +2203,7 @@
     "id": "1680769374-410",
     "brand": "McLaren",
     "name": "McLaren VGT (Gr.1)",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/363.jpg",
+    "image": "./cars/363.jpg",
     "pp": "936.32",
     "group": "Gr.1"
   },
@@ -2211,7 +2211,7 @@
     "id": "1680769372-409",
     "brand": "McLaren",
     "name": "650S GT3 '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/356.jpg",
+    "image": "./cars/356.jpg",
     "pp": "722.59",
     "group": "Gr.3"
   },
@@ -2219,7 +2219,7 @@
     "id": "1680769370-408",
     "brand": "McLaren",
     "name": "McLaren F1 GTR - BMW '95",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/360.jpg",
+    "image": "./cars/360.jpg",
     "pp": "772.10",
     "group": "Gr.3"
   },
@@ -2227,7 +2227,7 @@
     "id": "1680769368-407",
     "brand": "McLaren",
     "name": "650S Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/357.jpg",
+    "image": "./cars/357.jpg",
     "pp": "636.80",
     "group": "Gr.4"
   },
@@ -2235,7 +2235,7 @@
     "id": "1680769366-406",
     "brand": "Mercedes-Benz",
     "name": "300 SL (W194) '52",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/047.jpg",
+    "image": "./cars/047.jpg",
     "pp": "434.80",
     "group": ""
   },
@@ -2243,7 +2243,7 @@
     "id": "1680769364-405",
     "brand": "Mercedes-Benz",
     "name": "300 SL Coupé '54",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/048.jpg",
+    "image": "./cars/048.jpg",
     "pp": "406.62",
     "group": ""
   },
@@ -2251,7 +2251,7 @@
     "id": "1680769362-404",
     "brand": "Mercedes-Benz",
     "name": "S Barker Tourer '29",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/049.jpg",
+    "image": "./cars/049.jpg",
     "pp": "345.33",
     "group": ""
   },
@@ -2259,7 +2259,7 @@
     "id": "1680769360-403",
     "brand": "Mercedes-Benz",
     "name": "SLR McLaren '09",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/050.jpg",
+    "image": "./cars/050.jpg",
     "pp": "600.18",
     "group": ""
   },
@@ -2267,7 +2267,7 @@
     "id": "1680769357-402",
     "brand": "Mercedes-Benz",
     "name": "Sauber Mercedes C9 '89",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/051.jpg",
+    "image": "./cars/051.jpg",
     "pp": "881.84",
     "group": "Gr.1"
   },
@@ -2275,7 +2275,7 @@
     "id": "1680769355-401",
     "brand": "Mini",
     "name": "MINI Clubman VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/044.jpg",
+    "image": "./cars/044.jpg",
     "pp": "657.35",
     "group": ""
   },
@@ -2283,7 +2283,7 @@
     "id": "1680769353-400",
     "brand": "Mini",
     "name": "Mini Cooper S '05",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/045.jpg",
+    "image": "./cars/045.jpg",
     "pp": "434.85",
     "group": ""
   },
@@ -2291,7 +2291,7 @@
     "id": "1680769351-399",
     "brand": "Mini",
     "name": "Mini-Cooper 'S' '65",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/046.jpg",
+    "image": "./cars/046.jpg",
     "pp": "250.64",
     "group": ""
   },
@@ -2299,7 +2299,7 @@
     "id": "1680769349-398",
     "brand": "Mitsubishi",
     "name": "Concept XR-PHEV EVOLUTION VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/245.jpg",
+    "image": "./cars/245.jpg",
     "pp": "687.06",
     "group": ""
   },
@@ -2307,7 +2307,7 @@
     "id": "1680769347-397",
     "brand": "Mitsubishi",
     "name": "GTO Twin Turbo '91",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/246.jpg",
+    "image": "./cars/246.jpg",
     "pp": "468.32",
     "group": ""
   },
@@ -2315,7 +2315,7 @@
     "id": "1680769345-396",
     "brand": "Mitsubishi",
     "name": "Lancer Evolution Final '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/247.jpg",
+    "image": "./cars/247.jpg",
     "pp": "503.43",
     "group": ""
   },
@@ -2323,7 +2323,7 @@
     "id": "1680769342-395",
     "brand": "Mitsubishi",
     "name": "Lancer Evolution Final Gr.B Road Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/254.jpg",
+    "image": "./cars/254.jpg",
     "pp": "561.08",
     "group": ""
   },
@@ -2331,7 +2331,7 @@
     "id": "1680769340-394",
     "brand": "Mitsubishi",
     "name": "Lancer Evolution IV GSR '96",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/251.jpg",
+    "image": "./cars/251.jpg",
     "pp": "467.12",
     "group": ""
   },
@@ -2339,7 +2339,7 @@
     "id": "1680769338-393",
     "brand": "Mitsubishi",
     "name": "Lancer Evolution V GSR '98",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/252.jpg",
+    "image": "./cars/252.jpg",
     "pp": "483.25",
     "group": ""
   },
@@ -2347,7 +2347,7 @@
     "id": "1680769336-392",
     "brand": "Mitsubishi",
     "name": "Lancer Evolution VI GSR T.M. SCP '99",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/253.jpg",
+    "image": "./cars/253.jpg",
     "pp": "505.66",
     "group": ""
   },
@@ -2355,7 +2355,7 @@
     "id": "1680769334-391",
     "brand": "Mitsubishi",
     "name": "Lancer Evolution Final Gr.3",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/248.jpg",
+    "image": "./cars/248.jpg",
     "pp": "725.39",
     "group": "Gr.3"
   },
@@ -2363,7 +2363,7 @@
     "id": "1680769332-390",
     "brand": "Mitsubishi",
     "name": "Lancer Evolution Final Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/249.jpg",
+    "image": "./cars/249.jpg",
     "pp": "623.47",
     "group": "Gr.4"
   },
@@ -2371,7 +2371,7 @@
     "id": "1680769330-389",
     "brand": "Mitsubishi",
     "name": "Lancer Evolution Final Gr.B Rally Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/250.jpg",
+    "image": "./cars/250.jpg",
     "pp": "654.52",
     "group": "Gr.B"
   },
@@ -2379,7 +2379,7 @@
     "id": "1680769327-388",
     "brand": "Nissan",
     "name": "180SX Type X '96",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/255.jpg",
+    "image": "./cars/255.jpg",
     "pp": "450.14",
     "group": ""
   },
@@ -2387,7 +2387,7 @@
     "id": "1680769325-387",
     "brand": "Nissan",
     "name": "Fairlady 240ZG (HS30) '71",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/256.jpg",
+    "image": "./cars/256.jpg",
     "pp": "394.85",
     "group": ""
   },
@@ -2395,7 +2395,7 @@
     "id": "1680769323-386",
     "brand": "Nissan",
     "name": "Fairlady Z (Z34) '08",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/257.jpg",
+    "image": "./cars/257.jpg",
     "pp": "516.03",
     "group": ""
   },
@@ -2403,7 +2403,7 @@
     "id": "1680769321-385",
     "brand": "Nissan",
     "name": "Fairlady Z 300SX TT 2seater '89",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/258.jpg",
+    "image": "./cars/258.jpg",
     "pp": "473.39",
     "group": ""
   },
@@ -2411,7 +2411,7 @@
     "id": "1680769319-384",
     "brand": "Nissan",
     "name": "Fairlady Z 432 '69",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/259.jpg",
+    "image": "./cars/259.jpg",
     "pp": "399.42",
     "group": ""
   },
@@ -2419,7 +2419,7 @@
     "id": "1680769317-383",
     "brand": "Nissan",
     "name": "Fairlady Z Version S (Z33) '07",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/260.jpg",
+    "image": "./cars/260.jpg",
     "pp": "519.31",
     "group": ""
   },
@@ -2427,7 +2427,7 @@
     "id": "1680769315-382",
     "brand": "Nissan",
     "name": "GT-R '17",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/261.jpg",
+    "image": "./cars/261.jpg",
     "pp": "598.86",
     "group": ""
   },
@@ -2435,7 +2435,7 @@
     "id": "1680769312-381",
     "brand": "Nissan",
     "name": "GT-R NISMO '17",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/267.jpg",
+    "image": "./cars/267.jpg",
     "pp": "620.11",
     "group": ""
   },
@@ -2443,7 +2443,7 @@
     "id": "1680769310-380",
     "brand": "Nissan",
     "name": "GT-R Safety Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/270.jpg",
+    "image": "./cars/270.jpg",
     "pp": "599.24",
     "group": ""
   },
@@ -2451,7 +2451,7 @@
     "id": "1680769308-379",
     "brand": "Nissan",
     "name": "NISSAN CONCEPT 2020 VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/271.jpg",
+    "image": "./cars/271.jpg",
     "pp": "690.72",
     "group": ""
   },
@@ -2459,7 +2459,7 @@
     "id": "1680769306-378",
     "brand": "Nissan",
     "name": "R32 GT-R V•spec II '94",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/272.jpg",
+    "image": "./cars/272.jpg",
     "pp": "507.51",
     "group": ""
   },
@@ -2467,7 +2467,7 @@
     "id": "1680769304-377",
     "brand": "Nissan",
     "name": "R33 GT-R V•spec '97",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/273.jpg",
+    "image": "./cars/273.jpg",
     "pp": "509.17",
     "group": ""
   },
@@ -2475,7 +2475,7 @@
     "id": "1680769302-376",
     "brand": "Nissan",
     "name": "R34 GT-R V•spec II Nür '02",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/274.jpg",
+    "image": "./cars/274.jpg",
     "pp": "523.05",
     "group": ""
   },
@@ -2483,7 +2483,7 @@
     "id": "1680769300-375",
     "brand": "Nissan",
     "name": "Sileighty '98",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/277.jpg",
+    "image": "./cars/277.jpg",
     "pp": "454.26",
     "group": ""
   },
@@ -2491,7 +2491,7 @@
     "id": "1680769298-374",
     "brand": "Nissan",
     "name": "Silvia K's Aero (S14) '96",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/452.jpg",
+    "image": "./cars/452.jpg",
     "pp": "476.26",
     "group": ""
   },
@@ -2499,7 +2499,7 @@
     "id": "1680769295-373",
     "brand": "Nissan",
     "name": "Silvia K's Dia Selection (S13) '90",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/278.jpg",
+    "image": "./cars/278.jpg",
     "pp": "405.25",
     "group": ""
   },
@@ -2507,7 +2507,7 @@
     "id": "1680769293-372",
     "brand": "Nissan",
     "name": "Silvia K's Type S (S14) '94",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/445.jpg",
+    "image": "./cars/445.jpg",
     "pp": "476.86",
     "group": ""
   },
@@ -2515,7 +2515,7 @@
     "id": "1680769291-371",
     "brand": "Nissan",
     "name": "Silvia Q's (S13) '88",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/279.jpg",
+    "image": "./cars/279.jpg",
     "pp": "369.49",
     "group": ""
   },
@@ -2523,7 +2523,7 @@
     "id": "1680769289-370",
     "brand": "Nissan",
     "name": "SILVIA spec-R Aero (S15) '02",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/276.jpg",
+    "image": "./cars/276.jpg",
     "pp": "486.36",
     "group": ""
   },
@@ -2531,7 +2531,7 @@
     "id": "1680769287-369",
     "brand": "Nissan",
     "name": "Skyline 2000GT-R (KPGC110) '73",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/449.jpg",
+    "image": "./cars/449.jpg",
     "pp": "386.53",
     "group": ""
   },
@@ -2539,7 +2539,7 @@
     "id": "1680769285-368",
     "brand": "Nissan",
     "name": "Skyline Hard Top 2000GT-R (KPGC10) '70",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/281.jpg",
+    "image": "./cars/281.jpg",
     "pp": "383.69",
     "group": ""
   },
@@ -2547,7 +2547,7 @@
     "id": "1680769283-367",
     "brand": "Nissan",
     "name": "Z Performance '23",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/282.jpg",
+    "image": "./cars/282.jpg",
     "pp": "543.85",
     "group": ""
   },
@@ -2555,7 +2555,7 @@
     "id": "1680769280-366",
     "brand": "Nissan",
     "name": "GT-R LM NISMO '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/266.jpg",
+    "image": "./cars/266.jpg",
     "pp": "907.52",
     "group": "Gr.1"
   },
@@ -2563,7 +2563,7 @@
     "id": "1680769278-365",
     "brand": "Nissan",
     "name": "R92CP '92",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/275.jpg",
+    "image": "./cars/275.jpg",
     "pp": "886.15",
     "group": "Gr.1"
   },
@@ -2571,7 +2571,7 @@
     "id": "1680769276-364",
     "brand": "Nissan",
     "name": "GT-R GT500 '08",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/262.jpg",
+    "image": "./cars/262.jpg",
     "pp": "794.17",
     "group": "Gr.2"
   },
@@ -2579,7 +2579,7 @@
     "id": "1680769274-363",
     "brand": "Nissan",
     "name": "GT-R NISMO GT500 '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/269.jpg",
+    "image": "./cars/269.jpg",
     "pp": "852.12",
     "group": "Gr.2"
   },
@@ -2587,7 +2587,7 @@
     "id": "1680769272-362",
     "brand": "Nissan",
     "name": "GT-R GT500 '99",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/263.jpg",
+    "image": "./cars/263.jpg",
     "pp": "726.15",
     "group": "Gr.3"
   },
@@ -2595,7 +2595,7 @@
     "id": "1680769270-361",
     "brand": "Nissan",
     "name": "GT-R NISMO GT3 '13",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/268.jpg",
+    "image": "./cars/268.jpg",
     "pp": "717.48",
     "group": "Gr.3"
   },
@@ -2603,7 +2603,7 @@
     "id": "1680769268-360",
     "brand": "Nissan",
     "name": "GT-R NISMO GT3 '18",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/446.jpg",
+    "image": "./cars/446.jpg",
     "pp": "723.14",
     "group": "Gr.3"
   },
@@ -2611,7 +2611,7 @@
     "id": "1680769266-359",
     "brand": "Nissan",
     "name": "Skyline Super Silhouette '84",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/438.jpg",
+    "image": "./cars/438.jpg",
     "pp": "728.15",
     "group": "Gr.3"
   },
@@ -2619,7 +2619,7 @@
     "id": "1680769263-358",
     "brand": "Nissan",
     "name": "GT-R Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/264.jpg",
+    "image": "./cars/264.jpg",
     "pp": "633.26",
     "group": "Gr.4"
   },
@@ -2627,7 +2627,7 @@
     "id": "1680769261-357",
     "brand": "Nissan",
     "name": "Silvia spec-R Aero (S15) Touring Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/280.jpg",
+    "image": "./cars/280.jpg",
     "pp": "640.71",
     "group": "Gr.4"
   },
@@ -2635,7 +2635,7 @@
     "id": "1680769259-356",
     "brand": "Nissan",
     "name": "GT-R Gr.B Rally Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/265.jpg",
+    "image": "./cars/265.jpg",
     "pp": "656.44",
     "group": "Gr.B"
   },
@@ -2643,7 +2643,7 @@
     "id": "1680769257-355",
     "brand": "Pagani",
     "name": "Huayra '13",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/190.jpg",
+    "image": "./cars/190.jpg",
     "pp": "680.82",
     "group": ""
   },
@@ -2651,7 +2651,7 @@
     "id": "1680769255-354",
     "brand": "Pagani",
     "name": "Zonda R '09",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/191.jpg",
+    "image": "./cars/191.jpg",
     "pp": "782.08",
     "group": ""
   },
@@ -2659,7 +2659,7 @@
     "id": "1680769253-353",
     "brand": "Peugeot",
     "name": "208 GTi by Peugeot Sport '14",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/115.jpg",
+    "image": "./cars/115.jpg",
     "pp": "451.90",
     "group": ""
   },
@@ -2667,7 +2667,7 @@
     "id": "1680769251-352",
     "brand": "Peugeot",
     "name": "L500R HYbrid VGT 2017",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/117.jpg",
+    "image": "./cars/117.jpg",
     "pp": "659.43",
     "group": ""
   },
@@ -2675,7 +2675,7 @@
     "id": "1680769248-351",
     "brand": "Peugeot",
     "name": "L750R HYbrid VGT 2017",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/118.jpg",
+    "image": "./cars/118.jpg",
     "pp": "948.34",
     "group": ""
   },
@@ -2683,7 +2683,7 @@
     "id": "1680769246-350",
     "brand": "Peugeot",
     "name": "PEUGEOT VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/119.jpg",
+    "image": "./cars/119.jpg",
     "pp": "806.16",
     "group": ""
   },
@@ -2691,7 +2691,7 @@
     "id": "1680769244-349",
     "brand": "Peugeot",
     "name": "RCZ Gr.3 Road Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/123.jpg",
+    "image": "./cars/123.jpg",
     "pp": "559.98",
     "group": ""
   },
@@ -2699,7 +2699,7 @@
     "id": "1680769242-348",
     "brand": "Peugeot",
     "name": "RCZ GT Line '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/121.jpg",
+    "image": "./cars/121.jpg",
     "pp": "421.07",
     "group": ""
   },
@@ -2707,7 +2707,7 @@
     "id": "1680769240-347",
     "brand": "Peugeot",
     "name": "908 HDi FAP '10",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/116.jpg",
+    "image": "./cars/116.jpg",
     "pp": "928.93",
     "group": "Gr.1"
   },
@@ -2715,7 +2715,7 @@
     "id": "1680769238-346",
     "brand": "Peugeot",
     "name": "PEUGEOT VGT (Gr.3)",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/120.jpg",
+    "image": "./cars/120.jpg",
     "pp": "710.85",
     "group": "Gr.3"
   },
@@ -2723,7 +2723,7 @@
     "id": "1680769236-345",
     "brand": "Peugeot",
     "name": "RCZ Gr.3",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/122.jpg",
+    "image": "./cars/122.jpg",
     "pp": "717.35",
     "group": "Gr.3"
   },
@@ -2731,7 +2731,7 @@
     "id": "1680769234-344",
     "brand": "Peugeot",
     "name": "RCZ Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/124.jpg",
+    "image": "./cars/124.jpg",
     "pp": "629.39",
     "group": "Gr.4"
   },
@@ -2739,7 +2739,7 @@
     "id": "1680769231-343",
     "brand": "Peugeot",
     "name": "205 Turbo 16 Evolution 2 '86",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/114.jpg",
+    "image": "./cars/114.jpg",
     "pp": "674.71",
     "group": "Gr.B"
   },
@@ -2747,7 +2747,7 @@
     "id": "1680769229-342",
     "brand": "Peugeot",
     "name": "RCZ Gr.B Rally Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/125.jpg",
+    "image": "./cars/125.jpg",
     "pp": "654.41",
     "group": "Gr.B"
   },
@@ -2755,7 +2755,7 @@
     "id": "1680769227-341",
     "brand": "Plymouth",
     "name": "Superbird '70",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/419.jpg",
+    "image": "./cars/419.jpg",
     "pp": "445.21",
     "group": ""
   },
@@ -2763,7 +2763,7 @@
     "id": "1680769225-340",
     "brand": "Plymouth",
     "name": "XNR Ghia Roadster '60",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/420.jpg",
+    "image": "./cars/420.jpg",
     "pp": "421.28",
     "group": ""
   },
@@ -2771,7 +2771,7 @@
     "id": "1680769223-339",
     "brand": "Pontiac",
     "name": "Firebird Trans Am '78",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/421.jpg",
+    "image": "./cars/421.jpg",
     "pp": "404.32",
     "group": ""
   },
@@ -2779,7 +2779,7 @@
     "id": "1680769221-338",
     "brand": "Pontiac",
     "name": "GTO 'The Judge' '69",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/442.jpg",
+    "image": "./cars/442.jpg",
     "pp": "448.90",
     "group": ""
   },
@@ -2787,7 +2787,7 @@
     "id": "1680769219-337",
     "brand": "Porsche",
     "name": "356 A/1500 GS Carrera '56",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/052.jpg",
+    "image": "./cars/052.jpg",
     "pp": "355.94",
     "group": ""
   },
@@ -2795,7 +2795,7 @@
     "id": "1680769216-336",
     "brand": "Porsche",
     "name": "356 A/1500 GS GT Carrera Speedster '56",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/053.jpg",
+    "image": "./cars/053.jpg",
     "pp": "372.67",
     "group": ""
   },
@@ -2803,7 +2803,7 @@
     "id": "1680769214-335",
     "brand": "Porsche",
     "name": "911 Carrera RS (901) '73",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/460.jpg",
+    "image": "./cars/460.jpg",
     "pp": "487.09",
     "group": ""
   },
@@ -2811,7 +2811,7 @@
     "id": "1680769212-334",
     "brand": "Porsche",
     "name": "911 Carrera RS (964) '92",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/054.jpg",
+    "image": "./cars/054.jpg",
     "pp": "518.79",
     "group": ""
   },
@@ -2819,7 +2819,7 @@
     "id": "1680769210-333",
     "brand": "Porsche",
     "name": "911 Carrera RS (993) '95",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/055.jpg",
+    "image": "./cars/055.jpg",
     "pp": "532.61",
     "group": ""
   },
@@ -2827,7 +2827,7 @@
     "id": "1680769208-332",
     "brand": "Porsche",
     "name": "911 Carrera RS CS (993) '95",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/056.jpg",
+    "image": "./cars/056.jpg",
     "pp": "534.46",
     "group": ""
   },
@@ -2835,7 +2835,7 @@
     "id": "1680769206-331",
     "brand": "Porsche",
     "name": "911 GT1 Strassenversion '97",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/057.jpg",
+    "image": "./cars/057.jpg",
     "pp": "644.04",
     "group": ""
   },
@@ -2843,7 +2843,7 @@
     "id": "1680769204-330",
     "brand": "Porsche",
     "name": "911 GT3 (996) '01",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/058.jpg",
+    "image": "./cars/058.jpg",
     "pp": "554.41",
     "group": ""
   },
@@ -2851,7 +2851,7 @@
     "id": "1680769202-329",
     "brand": "Porsche",
     "name": "911 GT3 (997) '09",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/059.jpg",
+    "image": "./cars/059.jpg",
     "pp": "582.09",
     "group": ""
   },
@@ -2859,7 +2859,7 @@
     "id": "1680769199-328",
     "brand": "Porsche",
     "name": "911 GT3 RS (991) '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/060.jpg",
+    "image": "./cars/060.jpg",
     "pp": "637.00",
     "group": ""
   },
@@ -2867,7 +2867,7 @@
     "id": "1680769197-327",
     "brand": "Porsche",
     "name": "911 Turbo (930) '81",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/062.jpg",
+    "image": "./cars/062.jpg",
     "pp": "502.34",
     "group": ""
   },
@@ -2875,7 +2875,7 @@
     "id": "1680769195-326",
     "brand": "Porsche",
     "name": "917 LIVING LEGEND",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/063.jpg",
+    "image": "./cars/063.jpg",
     "pp": "822.82",
     "group": ""
   },
@@ -2883,7 +2883,7 @@
     "id": "1680769193-325",
     "brand": "Porsche",
     "name": "917K '70",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/064.jpg",
+    "image": "./cars/064.jpg",
     "pp": "753.96",
     "group": ""
   },
@@ -2891,7 +2891,7 @@
     "id": "1680769191-324",
     "brand": "Porsche",
     "name": "918 Spyder '13",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/436.jpg",
+    "image": "./cars/436.jpg",
     "pp": "664.21",
     "group": ""
   },
@@ -2899,7 +2899,7 @@
     "id": "1680769189-323",
     "brand": "Porsche",
     "name": "959 '87",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/467.jpg",
+    "image": "./cars/467.jpg",
     "pp": "557.43",
     "group": ""
   },
@@ -2907,7 +2907,7 @@
     "id": "1680769187-322",
     "brand": "Porsche",
     "name": "Carrera GT '04",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/067.jpg",
+    "image": "./cars/067.jpg",
     "pp": "626.34",
     "group": ""
   },
@@ -2915,7 +2915,7 @@
     "id": "1680769184-321",
     "brand": "Porsche",
     "name": "Carrera GTS (904) '64",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/468.jpg",
+    "image": "./cars/468.jpg",
     "pp": "511.64",
     "group": ""
   },
@@ -2923,7 +2923,7 @@
     "id": "1680769182-320",
     "brand": "Porsche",
     "name": "Cayman GT4 '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/439.jpg",
+    "image": "./cars/439.jpg",
     "pp": "565.64",
     "group": ""
   },
@@ -2931,7 +2931,7 @@
     "id": "1680769180-319",
     "brand": "Porsche",
     "name": "Porsche VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/069.jpg",
+    "image": "./cars/069.jpg",
     "pp": "812.97",
     "group": ""
   },
@@ -2939,7 +2939,7 @@
     "id": "1680769178-318",
     "brand": "Porsche",
     "name": "Porsche VGT Spyder",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/444.jpg",
+    "image": "./cars/444.jpg",
     "pp": "804.97",
     "group": ""
   },
@@ -2947,7 +2947,7 @@
     "id": "1680769176-317",
     "brand": "Porsche",
     "name": "Spyder type 550/1500RS '55",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/070.jpg",
+    "image": "./cars/070.jpg",
     "pp": "439.07",
     "group": ""
   },
@@ -2955,7 +2955,7 @@
     "id": "1680769174-316",
     "brand": "Porsche",
     "name": "Taycan Turbo S '19",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/071.jpg",
+    "image": "./cars/071.jpg",
     "pp": "607.91",
     "group": ""
   },
@@ -2963,7 +2963,7 @@
     "id": "1680769172-315",
     "brand": "Porsche",
     "name": "919 Hybrid '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/065.jpg",
+    "image": "./cars/065.jpg",
     "pp": "935.90",
     "group": "Gr.1"
   },
@@ -2971,7 +2971,7 @@
     "id": "1680769169-314",
     "brand": "Porsche",
     "name": "962 C '88",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/066.jpg",
+    "image": "./cars/066.jpg",
     "pp": "877.36",
     "group": "Gr.1"
   },
@@ -2979,7 +2979,7 @@
     "id": "1680769167-313",
     "brand": "Porsche",
     "name": "911 RSR (991) '17",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/061.jpg",
+    "image": "./cars/061.jpg",
     "pp": "718.39",
     "group": "Gr.3"
   },
@@ -2987,7 +2987,7 @@
     "id": "1680769165-312",
     "brand": "Porsche",
     "name": "Cayman GT4 Clubsport '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/068.jpg",
+    "image": "./cars/068.jpg",
     "pp": "649.02",
     "group": "Gr.4"
   },
@@ -2995,7 +2995,7 @@
     "id": "1680769163-311",
     "brand": "Radical",
     "name": "SR3 SL '13",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/089.jpg",
+    "image": "./cars/089.jpg",
     "pp": "544.74",
     "group": ""
   },
@@ -3003,7 +3003,7 @@
     "id": "1680769161-310",
     "brand": "Re Amemiya",
     "name": "RE Amemiya FD3S RX-7",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/283.jpg",
+    "image": "./cars/283.jpg",
     "pp": "558.81",
     "group": ""
   },
@@ -3011,7 +3011,7 @@
     "id": "1680769159-309",
     "brand": "Renault",
     "name": "Clio R.S. 220 Trophy '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/126.jpg",
+    "image": "./cars/126.jpg",
     "pp": "463.70",
     "group": ""
   },
@@ -3019,7 +3019,7 @@
     "id": "1680769157-308",
     "brand": "Renault",
     "name": "Clio R.S. 220 Trophy '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/127.jpg",
+    "image": "./cars/127.jpg",
     "pp": "461.92",
     "group": ""
   },
@@ -3027,7 +3027,7 @@
     "id": "1680769155-307",
     "brand": "Renault",
     "name": "Clio V6 24V '00",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/128.jpg",
+    "image": "./cars/128.jpg",
     "pp": "467.92",
     "group": ""
   },
@@ -3035,7 +3035,7 @@
     "id": "1680769152-306",
     "brand": "Renault",
     "name": "Mégane R.S. Trophy '11",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/130.jpg",
+    "image": "./cars/130.jpg",
     "pp": "493.16",
     "group": ""
   },
@@ -3043,7 +3043,7 @@
     "id": "1680769150-305",
     "brand": "Renault",
     "name": "Mégane R.S. Trophy Safety Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/131.jpg",
+    "image": "./cars/131.jpg",
     "pp": "494.43",
     "group": ""
   },
@@ -3051,7 +3051,7 @@
     "id": "1680769148-304",
     "brand": "Renault",
     "name": "R.S.01 '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/133.jpg",
+    "image": "./cars/133.jpg",
     "pp": "742.87",
     "group": ""
   },
@@ -3059,7 +3059,7 @@
     "id": "1680769146-303",
     "brand": "Renault",
     "name": "R5 Turbo '80",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/135.jpg",
+    "image": "./cars/135.jpg",
     "pp": "399.87",
     "group": ""
   },
@@ -3067,7 +3067,7 @@
     "id": "1680769144-302",
     "brand": "Renault",
     "name": "R8 Gordini '66",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/136.jpg",
+    "image": "./cars/136.jpg",
     "pp": "357.95",
     "group": ""
   },
@@ -3075,7 +3075,7 @@
     "id": "1680769142-301",
     "brand": "Renault",
     "name": "R.S.01 GT3 '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/134.jpg",
+    "image": "./cars/134.jpg",
     "pp": "730.51",
     "group": "Gr.3"
   },
@@ -3083,7 +3083,7 @@
     "id": "1680769139-300",
     "brand": "Renault",
     "name": "Mégane Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/129.jpg",
+    "image": "./cars/129.jpg",
     "pp": "647.73",
     "group": "Gr.4"
   },
@@ -3091,7 +3091,7 @@
     "id": "1680769137-299",
     "brand": "Renault",
     "name": "Mégane Trophy '11",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/132.jpg",
+    "image": "./cars/132.jpg",
     "pp": "655.42",
     "group": "Gr.4"
   },
@@ -3099,7 +3099,7 @@
     "id": "1680769135-298",
     "brand": "Roadster Shop",
     "name": "Roadster Shop Rampage",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/430.jpg",
+    "image": "./cars/430.jpg",
     "pp": "668.92",
     "group": ""
   },
@@ -3107,7 +3107,7 @@
     "id": "1680769133-297",
     "brand": "RUF",
     "name": "CTR3 '07",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/072.jpg",
+    "image": "./cars/072.jpg",
     "pp": "663.33",
     "group": ""
   },
@@ -3115,7 +3115,7 @@
     "id": "1680769131-296",
     "brand": "Shelby",
     "name": "Cobra 427 '66",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/422.jpg",
+    "image": "./cars/422.jpg",
     "pp": "571.47",
     "group": ""
   },
@@ -3123,7 +3123,7 @@
     "id": "1680769129-295",
     "brand": "Shelby",
     "name": "Cobra Daytona Coupe '64",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/423.jpg",
+    "image": "./cars/423.jpg",
     "pp": "552.91",
     "group": ""
   },
@@ -3131,7 +3131,7 @@
     "id": "1680769127-294",
     "brand": "Shelby",
     "name": "G.T.350 '65",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/424.jpg",
+    "image": "./cars/424.jpg",
     "pp": "459.45",
     "group": ""
   },
@@ -3139,7 +3139,7 @@
     "id": "1680769125-293",
     "brand": "Subaru",
     "name": "BRZ Drift Car '17",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/284.jpg",
+    "image": "./cars/284.jpg",
     "pp": "621.02",
     "group": ""
   },
@@ -3147,7 +3147,7 @@
     "id": "1680769122-292",
     "brand": "Subaru",
     "name": "BRZ S '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/285.jpg",
+    "image": "./cars/285.jpg",
     "pp": "438.29",
     "group": ""
   },
@@ -3155,7 +3155,7 @@
     "id": "1680769120-291",
     "brand": "Subaru",
     "name": "BRZ S '21",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/428.jpg",
+    "image": "./cars/428.jpg",
     "pp": "484.22",
     "group": ""
   },
@@ -3163,7 +3163,7 @@
     "id": "1680769118-290",
     "brand": "Subaru",
     "name": "BRZ STI Sport '18",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/286.jpg",
+    "image": "./cars/286.jpg",
     "pp": "461.24",
     "group": ""
   },
@@ -3171,7 +3171,7 @@
     "id": "1680769116-289",
     "brand": "Subaru",
     "name": "Impreza 22B-STi '98",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/287.jpg",
+    "image": "./cars/287.jpg",
     "pp": "504.80",
     "group": ""
   },
@@ -3179,7 +3179,7 @@
     "id": "1680769114-288",
     "brand": "Subaru",
     "name": "Impreza Coupe WRX Type R STi Ver.VI '99",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/288.jpg",
+    "image": "./cars/288.jpg",
     "pp": "473.11",
     "group": ""
   },
@@ -3187,7 +3187,7 @@
     "id": "1680769112-287",
     "brand": "Subaru",
     "name": "VIZIV GT VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/289.jpg",
+    "image": "./cars/289.jpg",
     "pp": "703.93",
     "group": ""
   },
@@ -3195,7 +3195,7 @@
     "id": "1680769110-286",
     "brand": "Subaru",
     "name": "WRX Gr.B Road Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/293.jpg",
+    "image": "./cars/293.jpg",
     "pp": "548.96",
     "group": ""
   },
@@ -3203,7 +3203,7 @@
     "id": "1680769107-285",
     "brand": "Subaru",
     "name": "WRX STI Isle of Man '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/294.jpg",
+    "image": "./cars/294.jpg",
     "pp": "678.11",
     "group": ""
   },
@@ -3211,7 +3211,7 @@
     "id": "1680769105-284",
     "brand": "Subaru",
     "name": "WRX STI Type S '14",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/295.jpg",
+    "image": "./cars/295.jpg",
     "pp": "500.96",
     "group": ""
   },
@@ -3219,7 +3219,7 @@
     "id": "1680769103-283",
     "brand": "Subaru",
     "name": "BRZ GT300 '21",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/429.jpg",
+    "image": "./cars/429.jpg",
     "pp": "735.94",
     "group": "Gr.3"
   },
@@ -3227,7 +3227,7 @@
     "id": "1680769101-282",
     "brand": "Subaru",
     "name": "WRX Gr.3",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/290.jpg",
+    "image": "./cars/290.jpg",
     "pp": "721.51",
     "group": "Gr.3"
   },
@@ -3235,7 +3235,7 @@
     "id": "1680769099-281",
     "brand": "Subaru",
     "name": "WRX Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/291.jpg",
+    "image": "./cars/291.jpg",
     "pp": "624.28",
     "group": "Gr.4"
   },
@@ -3243,7 +3243,7 @@
     "id": "1680769097-280",
     "brand": "Subaru",
     "name": "WRX Gr.B Rally Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/292.jpg",
+    "image": "./cars/292.jpg",
     "pp": "649.42",
     "group": "Gr.B"
   },
@@ -3251,7 +3251,7 @@
     "id": "1680769095-279",
     "brand": "Super Formula",
     "name": "SF19 Super Formula / Honda '19",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/296.jpg",
+    "image": "./cars/296.jpg",
     "pp": "976.35",
     "group": ""
   },
@@ -3259,7 +3259,7 @@
     "id": "1680769093-278",
     "brand": "Super Formula",
     "name": "SF19 Super Formula / Toyota '19",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/297.jpg",
+    "image": "./cars/297.jpg",
     "pp": "976.35",
     "group": ""
   },
@@ -3267,7 +3267,7 @@
     "id": "1680769090-277",
     "brand": "Suzuki",
     "name": "Cappuccino (EA11R) '91",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/427.jpg",
+    "image": "./cars/427.jpg",
     "pp": "292.35",
     "group": ""
   },
@@ -3275,7 +3275,7 @@
     "id": "1680769088-276",
     "brand": "Suzuki",
     "name": "SUZUKI VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/432.jpg",
+    "image": "./cars/432.jpg",
     "pp": "611.32",
     "group": ""
   },
@@ -3283,7 +3283,7 @@
     "id": "1680769086-275",
     "brand": "Suzuki",
     "name": "Swift Sport '07",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/298.jpg",
+    "image": "./cars/298.jpg",
     "pp": "397.30",
     "group": ""
   },
@@ -3291,7 +3291,7 @@
     "id": "1680769084-274",
     "brand": "Suzuki",
     "name": "Swift Sport '17",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/299.jpg",
+    "image": "./cars/299.jpg",
     "pp": "426.05",
     "group": ""
   },
@@ -3299,7 +3299,7 @@
     "id": "1680769082-273",
     "brand": "Suzuki",
     "name": "V6 Escudo Pikes Peak Special '98",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/433.jpg",
+    "image": "./cars/433.jpg",
     "pp": "846.27",
     "group": ""
   },
@@ -3307,7 +3307,7 @@
     "id": "1680769080-272",
     "brand": "Suzuki",
     "name": "SUZUKI VGT (Gr.3)",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/435.jpg",
+    "image": "./cars/435.jpg",
     "pp": "710.46",
     "group": "Gr.3"
   },
@@ -3315,7 +3315,7 @@
     "id": "1680769078-271",
     "brand": "Suzuki",
     "name": "Swift Sport Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/300.jpg",
+    "image": "./cars/300.jpg",
     "pp": "661.40",
     "group": "Gr.4"
   },
@@ -3323,7 +3323,7 @@
     "id": "1680769075-270",
     "brand": "Tesla Motors",
     "name": "Model S Signature Performance '12",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/425.jpg",
+    "image": "./cars/425.jpg",
     "pp": "531.94",
     "group": ""
   },
@@ -3331,7 +3331,7 @@
     "id": "1680769073-269",
     "brand": "Toyota",
     "name": "2000GT '67",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/301.jpg",
+    "image": "./cars/301.jpg",
     "pp": "394.33",
     "group": ""
   },
@@ -3339,7 +3339,7 @@
     "id": "1680769071-268",
     "brand": "Toyota",
     "name": "86 GRMN '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/302.jpg",
+    "image": "./cars/302.jpg",
     "pp": "469.81",
     "group": ""
   },
@@ -3347,7 +3347,7 @@
     "id": "1680769069-267",
     "brand": "Toyota",
     "name": "86 GT '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/303.jpg",
+    "image": "./cars/303.jpg",
     "pp": "438.72",
     "group": ""
   },
@@ -3355,7 +3355,7 @@
     "id": "1680769067-266",
     "brand": "Toyota",
     "name": "86 GT\"Limited\" '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/304.jpg",
+    "image": "./cars/304.jpg",
     "pp": "441.55",
     "group": ""
   },
@@ -3363,7 +3363,7 @@
     "id": "1680769065-265",
     "brand": "Toyota",
     "name": "Alphard Executive Lounge '18",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/465.jpg",
+    "image": "./cars/465.jpg",
     "pp": "394.88",
     "group": ""
   },
@@ -3371,7 +3371,7 @@
     "id": "1680769063-264",
     "brand": "Toyota",
     "name": "Aqua S '11",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/307.jpg",
+    "image": "./cars/307.jpg",
     "pp": "353.65",
     "group": ""
   },
@@ -3379,7 +3379,7 @@
     "id": "1680769060-263",
     "brand": "Toyota",
     "name": "Celica GT-Four (ST205) '94",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/308.jpg",
+    "image": "./cars/308.jpg",
     "pp": "459.68",
     "group": ""
   },
@@ -3387,7 +3387,7 @@
     "id": "1680769058-262",
     "brand": "Toyota",
     "name": "Corolla Levin 1600GT APEX (AE86) '83",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/309.jpg",
+    "image": "./cars/309.jpg",
     "pp": "364.30",
     "group": ""
   },
@@ -3395,7 +3395,7 @@
     "id": "1680769056-261",
     "brand": "Toyota",
     "name": "Crown Athlete G '13",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/310.jpg",
+    "image": "./cars/310.jpg",
     "pp": "486.43",
     "group": ""
   },
@@ -3403,7 +3403,7 @@
     "id": "1680769054-260",
     "brand": "Toyota",
     "name": "Crown Athlete G Safety Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/311.jpg",
+    "image": "./cars/311.jpg",
     "pp": "490.23",
     "group": ""
   },
@@ -3411,7 +3411,7 @@
     "id": "1680769052-259",
     "brand": "Toyota",
     "name": "FT-1",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/312.jpg",
+    "image": "./cars/312.jpg",
     "pp": "592.71",
     "group": ""
   },
@@ -3419,7 +3419,7 @@
     "id": "1680769050-258",
     "brand": "Toyota",
     "name": "FT-1 VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/313.jpg",
+    "image": "./cars/313.jpg",
     "pp": "768.58",
     "group": ""
   },
@@ -3427,7 +3427,7 @@
     "id": "1680769048-257",
     "brand": "Toyota",
     "name": "GR Supra RZ '19",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/315.jpg",
+    "image": "./cars/315.jpg",
     "pp": "536.25",
     "group": ""
   },
@@ -3435,7 +3435,7 @@
     "id": "1680769045-256",
     "brand": "Toyota",
     "name": "GR Supra RZ '20",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/316.jpg",
+    "image": "./cars/316.jpg",
     "pp": "545.62",
     "group": ""
   },
@@ -3443,7 +3443,7 @@
     "id": "1680769043-255",
     "brand": "Toyota",
     "name": "GR Yaris RZ \"High Performance\" '20",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/319.jpg",
+    "image": "./cars/319.jpg",
     "pp": "500.33",
     "group": ""
   },
@@ -3451,7 +3451,7 @@
     "id": "1680769041-254",
     "brand": "Toyota",
     "name": "GR86 RZ '21",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/320.jpg",
+    "image": "./cars/320.jpg",
     "pp": "484.20",
     "group": ""
   },
@@ -3459,7 +3459,7 @@
     "id": "1680769039-253",
     "brand": "Toyota",
     "name": "MR2 GT-S '97",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/321.jpg",
+    "image": "./cars/321.jpg",
     "pp": "474.27",
     "group": ""
   },
@@ -3467,7 +3467,7 @@
     "id": "1680769037-252",
     "brand": "Toyota",
     "name": "Prius G '09",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/322.jpg",
+    "image": "./cars/322.jpg",
     "pp": "371.17",
     "group": ""
   },
@@ -3475,7 +3475,7 @@
     "id": "1680769035-251",
     "brand": "Toyota",
     "name": "S-FR '15",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/323.jpg",
+    "image": "./cars/323.jpg",
     "pp": "409.86",
     "group": ""
   },
@@ -3483,7 +3483,7 @@
     "id": "1680769033-250",
     "brand": "Toyota",
     "name": "S-FR Racing Concept '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/324.jpg",
+    "image": "./cars/324.jpg",
     "pp": "544.80",
     "group": ""
   },
@@ -3491,7 +3491,7 @@
     "id": "1680769030-249",
     "brand": "Toyota",
     "name": "Sports 800 '65",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/325.jpg",
+    "image": "./cars/325.jpg",
     "pp": "234.22",
     "group": ""
   },
@@ -3499,7 +3499,7 @@
     "id": "1680769028-248",
     "brand": "Toyota",
     "name": "Sprinter Trueno 1600GT APEX (AE86) '83",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/326.jpg",
+    "image": "./cars/326.jpg",
     "pp": "364.42",
     "group": ""
   },
@@ -3507,7 +3507,7 @@
     "id": "1680769026-247",
     "brand": "Toyota",
     "name": "Sprinter Trueno 1600GT APEX (S.Shegeno Version)",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/327.jpg",
+    "image": "./cars/327.jpg",
     "pp": "506.04",
     "group": ""
   },
@@ -3515,7 +3515,7 @@
     "id": "1680769024-246",
     "brand": "Toyota",
     "name": "Supra 3.0GT Turbo A '88",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/328.jpg",
+    "image": "./cars/328.jpg",
     "pp": "467.69",
     "group": ""
   },
@@ -3523,7 +3523,7 @@
     "id": "1680769022-245",
     "brand": "Toyota",
     "name": "Supra RZ '97",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/330.jpg",
+    "image": "./cars/330.jpg",
     "pp": "508.03",
     "group": ""
   },
@@ -3531,7 +3531,7 @@
     "id": "1680769020-244",
     "brand": "Toyota",
     "name": "Tundra TRD Pro '19",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/333.jpg",
+    "image": "./cars/333.jpg",
     "pp": "417.03",
     "group": ""
   },
@@ -3539,7 +3539,7 @@
     "id": "1680769018-243",
     "brand": "Toyota",
     "name": "GR010 Hybrid '21",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/431.jpg",
+    "image": "./cars/431.jpg",
     "pp": "884.24",
     "group": "Gr.1"
   },
@@ -3547,7 +3547,7 @@
     "id": "1680769015-242",
     "brand": "Toyota",
     "name": "TS030 Hybrid '12",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/331.jpg",
+    "image": "./cars/331.jpg",
     "pp": "915.54",
     "group": "Gr.1"
   },
@@ -3555,7 +3555,7 @@
     "id": "1680769013-241",
     "brand": "Toyota",
     "name": "TS050 - Hybrid '16",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/332.jpg",
+    "image": "./cars/332.jpg",
     "pp": "928.44",
     "group": "Gr.1"
   },
@@ -3563,7 +3563,7 @@
     "id": "1680769011-240",
     "brand": "Toyota",
     "name": "FT-1 VGT (Gr.3)",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/314.jpg",
+    "image": "./cars/314.jpg",
     "pp": "717.10",
     "group": "Gr.3"
   },
@@ -3571,7 +3571,7 @@
     "id": "1680769009-239",
     "brand": "Toyota",
     "name": "GR Supra Racing Concept '18",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/318.jpg",
+    "image": "./cars/318.jpg",
     "pp": "722.01",
     "group": "Gr.3"
   },
@@ -3579,7 +3579,7 @@
     "id": "1680769007-238",
     "brand": "Toyota",
     "name": "Supra GT500 '97",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/329.jpg",
+    "image": "./cars/329.jpg",
     "pp": "727.52",
     "group": "Gr.3"
   },
@@ -3587,7 +3587,7 @@
     "id": "1680769005-237",
     "brand": "Toyota",
     "name": "86 Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/305.jpg",
+    "image": "./cars/305.jpg",
     "pp": "637.79",
     "group": "Gr.4"
   },
@@ -3595,7 +3595,7 @@
     "id": "1680769003-236",
     "brand": "Toyota",
     "name": "GR Supra Race Car '19",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/317.jpg",
+    "image": "./cars/317.jpg",
     "pp": "636.87",
     "group": "Gr.4"
   },
@@ -3603,7 +3603,7 @@
     "id": "1680769000-235",
     "brand": "Toyota",
     "name": "86 Gr.B Rally Car",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/306.jpg",
+    "image": "./cars/306.jpg",
     "pp": "660.21",
     "group": "Gr.B"
   },
@@ -3611,7 +3611,7 @@
     "id": "1680768998-234",
     "brand": "Toyota",
     "name": "Celica GT-FOUR Rally Car (ST205) '95",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/455.jpg",
+    "image": "./cars/455.jpg",
     "pp": "599.65",
     "group": "Gr.B"
   },
@@ -3619,7 +3619,7 @@
     "id": "1680768996-233",
     "brand": "TVR",
     "name": "Tuscan Speed 6 '00",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/364.jpg",
+    "image": "./cars/364.jpg",
     "pp": "566.54",
     "group": ""
   },
@@ -3627,7 +3627,7 @@
     "id": "1680768994-232",
     "brand": "Volkswagen",
     "name": "Golf I GTI '83",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/076.jpg",
+    "image": "./cars/076.jpg",
     "pp": "352.62",
     "group": ""
   },
@@ -3635,7 +3635,7 @@
     "id": "1680768992-231",
     "brand": "Volkswagen",
     "name": "Golf VII GTI '14",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/077.jpg",
+    "image": "./cars/077.jpg",
     "pp": "454.98",
     "group": ""
   },
@@ -3643,7 +3643,7 @@
     "id": "1680768990-230",
     "brand": "Volkswagen",
     "name": "GTI Roadster VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/074.jpg",
+    "image": "./cars/074.jpg",
     "pp": "716.74",
     "group": ""
   },
@@ -3651,7 +3651,7 @@
     "id": "1680768988-229",
     "brand": "Volkswagen",
     "name": "GTI Supersport VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/075.jpg",
+    "image": "./cars/075.jpg",
     "pp": "716.35",
     "group": ""
   },
@@ -3659,7 +3659,7 @@
     "id": "1680768986-228",
     "brand": "Volkswagen",
     "name": "ID.R '19",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/443.jpg",
+    "image": "./cars/443.jpg",
     "pp": "867.81",
     "group": ""
   },
@@ -3667,7 +3667,7 @@
     "id": "1680768983-227",
     "brand": "Volkswagen",
     "name": "Polo GTI '14",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/078.jpg",
+    "image": "./cars/078.jpg",
     "pp": "438.34",
     "group": ""
   },
@@ -3675,7 +3675,7 @@
     "id": "1680768981-226",
     "brand": "Volkswagen",
     "name": "Sambabus Typ 2 '62",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/079.jpg",
+    "image": "./cars/079.jpg",
     "pp": "117.35",
     "group": ""
   },
@@ -3683,7 +3683,7 @@
     "id": "1680768979-225",
     "brand": "Volkswagen",
     "name": "Scirocco R '10",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/081.jpg",
+    "image": "./cars/081.jpg",
     "pp": "499.65",
     "group": ""
   },
@@ -3691,7 +3691,7 @@
     "id": "1680768977-224",
     "brand": "Volkswagen",
     "name": "Volkswagen 1200 '66",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/082.jpg",
+    "image": "./cars/082.jpg",
     "pp": "176.73",
     "group": ""
   },
@@ -3699,7 +3699,7 @@
     "id": "1680768975-223",
     "brand": "Volkswagen",
     "name": "Beetle Gr.3",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/073.jpg",
+    "image": "./cars/073.jpg",
     "pp": "735.60",
     "group": "Gr.3"
   },
@@ -3707,7 +3707,7 @@
     "id": "1680768973-222",
     "brand": "Volkswagen",
     "name": "Volkswagen GTI VGT (Gr.3)",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/083.jpg",
+    "image": "./cars/083.jpg",
     "pp": "710.49",
     "group": "Gr.3"
   },
@@ -3715,7 +3715,7 @@
     "id": "1680768971-221",
     "brand": "Volkswagen",
     "name": "Scirocco Gr.4",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/080.jpg",
+    "image": "./cars/080.jpg",
     "pp": "654.93",
     "group": "Gr.4"
   },
@@ -3723,7 +3723,7 @@
     "id": "1680768969-220",
     "brand": "Wicked Fabrication",
     "name": "Wicked Fabrication GT 51",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/426.jpg",
+    "image": "./cars/426.jpg",
     "pp": "525.03",
     "group": ""
   },
@@ -3731,7 +3731,7 @@
     "id": "1680768966-219",
     "brand": "Zagato",
     "name": "IsoRivolta Zagato VGT",
-    "image": "https://www.granturismo-fr.com/images/gt-7/voitures/192.jpg",
+    "image": "./cars/192.jpg",
     "pp": "657.74",
     "group": ""
   }
