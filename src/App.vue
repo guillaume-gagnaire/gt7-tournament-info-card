@@ -459,8 +459,7 @@ body {
 
       .icon {
         flex-shrink: 0;
-        height: 80px;
-        padding-bottom: 12px;
+        height: 60px;
         text-align: center;
 
         img {
