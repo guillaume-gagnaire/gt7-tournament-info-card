@@ -4,6 +4,7 @@ jobs:
   build_vue:
     runs-on: ubuntu-latest
     name: Build Vue
+    permissions: read-all|write-all
     steps:
       - uses: actions/checkout@v2
       - id: Build-Vue
